@@ -12,7 +12,7 @@
         :root {
             --primary-pink: #fad7d1;
             --deep-brown: #230800;
-            --glass-bg: rgba(10, 10, 10, 0.75); /* Чуть прозрачнее */
+            --glass-bg: rgba(10, 10, 10, 0.85);
             --glass-border: rgba(250, 215, 209, 0.15);
         }
 
@@ -25,8 +25,6 @@
             flex-direction: column;
             align-items: center;
             min-height: 100vh;
-            
-            /* ФОН (bg.jpg) */
             background-image: url('bg.png');
             background-size: cover;
             background-position: center;
@@ -34,74 +32,166 @@
             background-repeat: no-repeat;
         }
 
-        /* Затемнение фона (Overlay) */
         body::before {
             content: '';
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.65); /* Темная вуаль 65% */
+            background: rgba(0, 0, 0, 0.7);
             z-index: -1;
-            backdrop-filter: blur(2px); /* Легкое размытие фона */
+            backdrop-filter: blur(3px);
         }
 
-        /* Логотип */
-        .logo-container {
+        /* --- ПРАВЫЙ ВЕРХНИЙ УГОЛ (Логотип-ссылка) --- */
+        .logo-link {
             position: absolute;
             top: 25px;
             right: 35px;
             z-index: 10;
+            display: block; /* Чтобы ссылка работала как блок */
+            text-decoration: none;
         }
         .logo-img {
-            width: 140px; /* Чуть крупнее */
-            opacity: 0.95;
+            width: 160px;
+            opacity: 0.9;
             transition: all 0.3s;
-            /* Если у лого белый фон, это сделает его прозрачным (сработает только на темном фоне) */
-            /* mix-blend-mode: lighten; */ 
-            filter: drop-shadow(0 0 8px rgba(250, 215, 209, 0.2));
+            filter: drop-shadow(0 0 5px rgba(250, 215, 209, 0.2));
+            display: block;
         }
-        .logo-img:hover { 
-            opacity: 1; 
-            transform: scale(1.05);
+        .logo-img:hover { opacity: 1; transform: scale(1.05); }
+
+        /* --- ЛЕВЫЙ ВЕРХНИЙ УГОЛ (Профиль) --- */
+        .profile-box {
+            position: absolute;
+            top: 25px;
+            left: 35px;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 4px;
         }
 
-        /* Главный блок (Стекло) */
+        .github-link {
+            text-decoration: none;
+            opacity: 0.9;
+            transition: all 0.3s;
+            display: block;
+        }
+        .github-link:hover { opacity: 1; transform: scale(1.05); }
+
+        .github-avatar {
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            border: 1px solid var(--primary-pink);
+            display: block;
+        }
+
+        .made-by-text {
+            color: rgba(250, 215, 209, 0.5);
+            font-size: 10px;
+            line-height: 1.2;
+            max-width: 120px;
+        }
+        
+        .made-by-text a {
+            color: inherit;
+            text-decoration: none;
+            font-weight: bold;
+            border-bottom: 1px dotted rgba(250, 215, 209, 0.3);
+        }
+        .made-by-text a:hover { color: var(--primary-pink); border-bottom-style: solid; }
+
+
+        /* --- КОНТЕЙНЕР --- */
         .container {
             width: 100%;
-            max-width: 950px;
-            margin-top: 70px;
-            
+            max-width: 900px;
+            margin-top: 50px; /* УМЕНЬШИЛИ ОТСТУП (было 80) */
             background: var(--glass-bg);
             backdrop-filter: blur(12px);
             -webkit-backdrop-filter: blur(12px);
-            
             border: 1px solid var(--glass-border);
             border-radius: 12px;
-            padding: 40px;
+            padding: 30px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
         }
 
         h1 {
             color: var(--primary-pink);
             text-transform: uppercase;
-            letter-spacing: 2px;
+            letter-spacing: 1px;
             margin-top: 0;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
             text-align: center;
             font-weight: 700;
-            border-bottom: 1px solid var(--glass-border);
-            padding-bottom: 20px;
-            font-size: 24px;
+            font-size: 22px;
         }
 
-        /* Поиск */
+        /* --- ВИДЕО (Cover) --- */
+        .video-box {
+            width: 100%;
+            height: 220px;
+            margin: 0 auto 25px auto;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid var(--glass-border);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+            background: #000;
+            position: relative;
+        }
+        
+        video {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            opacity: 0.9;
+        }
+
+        .description-box {
+            text-align: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--glass-border);
+        }
+        
+        .description-text {
+            color: #ccc;
+            font-size: 13px;
+            line-height: 1.5;
+            max-width: 700px;
+            margin: 0 auto 15px auto;
+            opacity: 0.9;
+        }
+
+        .doc-link {
+            display: inline-block;
+            color: var(--primary-pink);
+            text-decoration: none;
+            border: 1px solid var(--primary-pink);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            background: rgba(250, 215, 209, 0.05);
+        }
+        .doc-link:hover {
+            background: var(--primary-pink);
+            color: var(--deep-brown);
+        }
+
         .search-box {
             background: rgba(0, 0, 0, 0.3);
-            padding: 12px;
+            padding: 6px 10px;
             border: 1px solid rgba(250, 215, 209, 0.3);
             display: flex;
-            gap: 10px;
-            margin-bottom: 30px;
+            gap: 8px;
+            margin-bottom: 20px;
             border-radius: 6px;
+            align-items: center;
         }
 
         input {
@@ -109,19 +199,19 @@
             background: transparent;
             border: none;
             color: var(--primary-pink);
-            padding: 10px;
+            padding: 8px;
             font-family: inherit;
-            font-size: 16px;
+            font-size: 14px;
             letter-spacing: 0.5px;
         }
         input:focus { outline: none; }
         input::placeholder { color: rgba(250, 215, 209, 0.4); }
 
-        button {
+        button.search-btn {
             background: var(--primary-pink);
             color: var(--deep-brown);
             border: none;
-            padding: 0 25px;
+            padding: 6px 18px;
             font-weight: bold;
             cursor: pointer;
             font-family: inherit;
@@ -129,33 +219,33 @@
             border-radius: 4px;
             transition: 0.2s;
             letter-spacing: 1px;
+            font-size: 12px;
         }
-        button:hover {
+        button.search-btn:hover {
             background: #fff;
-            box-shadow: 0 0 15px rgba(250, 215, 209, 0.4);
+            box-shadow: 0 0 10px rgba(250, 215, 209, 0.3);
         }
 
-        /* Таблица */
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
-            font-size: 14px;
+            margin-bottom: 15px;
+            font-size: 13px;
         }
 
         th {
             text-align: left;
-            padding: 15px;
+            padding: 10px;
             border-bottom: 1px solid rgba(250, 215, 209, 0.3);
             color: var(--primary-pink);
             text-transform: uppercase;
             opacity: 0.9;
-            font-size: 12px;
+            font-size: 11px;
             letter-spacing: 1px;
         }
 
         td {
-            padding: 16px 15px;
+            padding: 8px 10px;
             border-bottom: 1px solid rgba(255, 255, 255, 0.05);
             color: #eee;
         }
@@ -164,36 +254,44 @@
             background: rgba(250, 215, 209, 0.08);
         }
 
-        .rank-col { color: var(--primary-pink); font-weight: bold; width: 60px; }
-        .score-col { color: var(--primary-pink); font-weight: bold; text-align: right; }
-        .address-col { color: #ccc; font-family: monospace; font-size: 13px; }
-        .updated-col { text-align: right; color: #777; font-size: 11px; }
+        /* Ссылки на адреса */
+        .addr-link {
+            color: #ccc;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .addr-link:hover {
+            color: var(--primary-pink);
+            text-decoration: underline;
+        }
 
-        /* Пагинация */
+        .rank-col { color: var(--primary-pink); font-weight: bold; width: 50px; }
+        .score-col { color: var(--primary-pink); font-weight: bold; text-align: right; }
+        .address-col { font-family: monospace; font-size: 12px; }
+        .updated-col { text-align: right; color: #777; font-size: 10px; }
+
         .pagination {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 15px;
-            margin-top: 30px;
+            gap: 10px;
+            margin-top: 20px;
         }
-        
         .pagination button {
             background: transparent;
             border: 1px solid rgba(250, 215, 209, 0.4);
             color: var(--primary-pink);
-            padding: 8px 20px;
-            font-size: 12px;
+            padding: 6px 16px;
+            font-size: 11px;
             cursor: pointer;
             transition: 0.2s;
+            font-family: inherit;
         }
-        
         .pagination button:disabled {
             border-color: #444;
             color: #555;
             cursor: not-allowed;
         }
-
         .pagination button:hover:not(:disabled) {
             background: var(--primary-pink);
             color: var(--deep-brown);
@@ -201,42 +299,66 @@
 
         .footer {
             text-align: center;
-            margin-top: 30px;
+            margin-top: 20px;
             color: rgba(255, 255, 255, 0.3);
-            font-size: 11px;
+            font-size: 10px;
             border-top: 1px solid rgba(255, 255, 255, 0.05);
-            padding-top: 20px;
+            padding-top: 15px;
         }
 
-        @media (max-width: 700px) {
-            .logo-container {
-                position: static;
-                margin-bottom: 20px;
-                text-align: center;
+        @media (max-width: 800px) {
+            .logo-link, .profile-box { 
+                position: static; 
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 15px; 
+                width: 100%;
             }
-            .container {
-                padding: 20px;
-                margin-top: 20px;
-            }
-            .address-col {
-                font-size: 11px; /* Уменьшаем шрифт адреса на мобильных */
-            }
+            .container { padding: 15px; margin-top: 10px; }
+            .address-col { font-size: 10px; }
+            .video-box { height: 180px; }
         }
     </style>
 </head>
 <body>
 
-    <!-- Логотип (Gensyn-Logo-Inline-Pink.jpg) -->
-    <div class="logo-container">
-        <img src="Gensyn-Logo-Inline-Pink.png" alt="Gensyn Logo" class="logo-img">
+    <div class="profile-box">
+        <a href="https://github.com/noderguru" target="_blank" class="github-link">
+            <img src="https://avatars.githubusercontent.com/u/110336041?v=4" alt="noderguru" class="github-avatar">
+        </a>
+        <div class="made-by-text">
+            made by <a href="https://github.com/noderguru" target="_blank">noderguru</a><br>
+            for the Gensyn community
+        </div>
     </div>
+
+    <!-- Логотип-ссылка -->
+    <a href="https://www.gensyn.ai" target="_blank" class="logo-link">
+        <img src="Gensyn-Logo-Inline-Pink.png" alt="Gensyn Logo" class="logo-img">
+    </a>
 
     <div class="container">
         <h1>CodeAssist Leaderboard</h1>
 
+        <div class="video-box">
+            <video autoplay loop muted playsinline>
+                <source src="video-codeassist.webm" type="video/webm">
+            </video>
+        </div>
+
+        <div class="description-box">
+            <p class="description-text">
+                Train an on-device coding assistant simply by coding. CodeAssist records what you keep, correct, and delete, retraining after each session to adapt to your preferences, decentralised by design.
+            </p>
+            <a href="https://docs.gensyn.ai/testnet/codeassist/getting-started" target="_blank" class="doc-link">
+                READ DOCUMENTATION →
+            </a>
+        </div>
+
         <div class="search-box">
             <input type="text" id="searchInput" placeholder="Search wallet address (0x...)" onkeyup="handleSearch()">
-            <button onclick="handleSearch()">SEARCH</button>
+            <button class="search-btn" onclick="handleSearch()">SEARCH</button>
         </div>
 
         <div style="overflow-x: auto;">
@@ -250,7 +372,7 @@
                     </tr>
                 </thead>
                 <tbody id="table-body">
-                    <tr><td colspan="4" style="text-align:center; padding: 40px; color: rgba(250, 215, 209, 0.5);">Initializing Neural Network Data...</td></tr>
+                    <tr><td colspan="4" style="text-align:center; padding: 20px; color: rgba(250, 215, 209, 0.5);">Connecting...</td></tr>
                 </tbody>
             </table>
         </div>
@@ -262,7 +384,7 @@
         </div>
         
         <div class="footer">
-            System Synced: <span id="last-sync">...</span> | Total Nodes: <span id="total-users">0</span>
+            Last Synced: <span id="last-sync">...</span> | Total Participants: <span id="total-users">0</span>
         </div>
     </div>
 
@@ -276,16 +398,13 @@
             try {
                 const response = await fetch('leaderboard.json');
                 if (!response.ok) throw new Error("File not found");
-                
                 fullData = await response.json();
                 currentData = fullData;
-                
                 document.getElementById('last-sync').innerText = new Date().toLocaleString();
                 document.getElementById('total-users').innerText = fullData.length;
-
                 renderTable();
             } catch (error) {
-                document.getElementById('table-body').innerHTML = `<tr><td colspan="4" style="color: var(--primary-pink); text-align:center;">Error: Data Source Offline (leaderboard.json missing)</td></tr>`;
+                document.getElementById('table-body').innerHTML = `<tr><td colspan="4" style="color: var(--primary-pink); text-align:center;">Error loading data</td></tr>`;
             }
         }
 
@@ -298,7 +417,7 @@
             const pageData = currentData.slice(start, end);
 
             if (pageData.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; padding: 30px; color: rgba(255,255,255,0.3);">No results found</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; padding: 20px; color: rgba(255,255,255,0.3);">No results found</td></tr>`;
                 return;
             }
 
@@ -306,22 +425,25 @@
                 const tr = document.createElement('tr');
                 const dateStr = item.LastUpdate.replace('T', ' ');
                 
+                // Ссылка на эксплорер
+                const explorerLink = `https://gensyn-testnet.explorer.alchemy.com/address/${item.ID}?tab=internal_txns&filter=from`;
+
                 tr.innerHTML = `
                     <td class="rank-col">#${item.Rank}</td>
-                    <td class="address-col">${item.ID}</td>
+                    <td class="address-col">
+                        <a href="${explorerLink}" target="_blank" class="addr-link">${item.ID}</a>
+                    </td>
                     <td class="score-col">${item.Participation}</td>
                     <td class="updated-col">${dateStr}</td>
                 `;
                 tbody.appendChild(tr);
             });
-
             updatePagination();
         }
 
         function updatePagination() {
             const totalPages = Math.ceil(currentData.length / itemsPerPage);
             document.getElementById('pageInfo').innerText = `${currentPage} / ${totalPages || 1}`;
-            
             document.getElementById('prevBtn').disabled = currentPage === 1;
             document.getElementById('nextBtn').disabled = currentPage >= totalPages;
         }
@@ -347,4 +469,3 @@
     </script>
 </body>
 </html>
-
