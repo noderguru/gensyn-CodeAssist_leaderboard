@@ -396,7 +396,7 @@
 
         async function loadData() {
             try {
-                const response = await fetch('leaderboard.json');
+                const response = await fetch('leaderboard.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error("File not found");
                 fullData = await response.json();
                 currentData = fullData;
@@ -469,3 +469,4 @@
     </script>
 </body>
 </html>
+
