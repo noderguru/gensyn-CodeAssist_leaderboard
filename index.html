@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gensyn CodeAssist Leaderboard</title>
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --card-bg: #161616;
+            --accent: #00ff9d; /* Gensyn Green */
+            --text-main: #ffffff;
+            --text-sec: #888888;
+        }
+
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 900px;
+        }
+
+        /* Поиск */
+        .search-box {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid #333;
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 20px rgba(0, 255, 157, 0.1);
+        }
+
+        input {
+            flex: 1;
+            background: #000;
+            border: 1px solid #333;
+            color: #fff;
+            padding: 12px;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 16px;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        button {
+            background: var(--accent);
+            color: #000;
+            border: none;
+            padding: 0 25px;
+            border-radius: 6px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        button:hover {
+            opacity: 0.9;
+            transform: scale(1.02);
+        }
+
+        /* Таблица */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #222;
+        }
+
+        th {
+            background: #222;
+            color: var(--accent);
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+
+        tr:hover {
+            background: #1f1f1f;
+        }
+
+        .rank-col { color: var(--accent); font-weight: bold; width: 50px; text-align: center; }
+        .score-col { font-weight: bold; text-align: right; }
+        .address-col { font-family: monospace; color: #aaa; word-break: break-all; }
+
+        /* Пагинация */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .pagination button {
+            background: #222;
+            color: #fff;
+            border: 1px solid #444;
+        }
+        
+        .pagination button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #444;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Gensyn Leaderboard</h1>
+
+        <!-- Поиск -->
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search wallet (0x...)" onkeyup="handleSearch()">
+            <button onclick="handleSearch()">SEARCH</button>
+        </div>
+
+        <!-- Таблица -->
+        <div style="overflow-x: auto;">
+            <table id="leaderboard">
+                <thead>
+                    <tr>
+                        <th style="text-align: center;">Rank</th>
+                        <th>Address</th>
+                        <th style="text-align: right;">Score</th>
+                        <th style="text-align: right;">Updated</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr><td colspan="4" style="text-align:center; padding: 30px;">Loading data...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Пагинация -->
+        <div class="pagination" id="pagination">
+            <button onclick="changePage(-1)" id="prevBtn">PREV</button>
+            <span id="pageInfo">Page 1</span>
+            <button onclick="changePage(1)" id="nextBtn">NEXT</button>
+        </div>
+        
+        <div class="footer">
+            Last synced: <span id="last-sync">...</span> | Total users: <span id="total-users">0</span>
+        </div>
+    </div>
+
+    <script>
+        let fullData = [];     // Все данные
+        let currentData = [];  // Данные для отображения (с учетом поиска)
+        let currentPage = 1;
+        const itemsPerPage = 50;
+
+        // 1. Загрузка данных
+        async function loadData() {
+            try {
+                const response = await fetch('leaderboard.json');
+                if (!response.ok) throw new Error("File not found");
+                
+                fullData = await response.json();
+                currentData = fullData; // Сначала показываем всё
+                
+                document.getElementById('last-sync').innerText = new Date().toLocaleString();
+                document.getElementById('total-users').innerText = fullData.length;
+
+                renderTable();
+            } catch (error) {
+                document.getElementById('table-body').innerHTML = `<tr><td colspan="4" style="color:red; text-align:center;">Error loading leaderboard.json</td></tr>`;
+            }
+        }
+
+        // 2. Отрисовка таблицы (с учетом страницы)
+        function renderTable() {
+            const tbody = document.getElementById('table-body');
+            tbody.innerHTML = '';
+
+            // Расчет индексов для пагинации
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageData = currentData.slice(start, end);
+
+            if (pageData.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; padding: 30px;">No results found</td></tr>`;
+                return;
+            }
+
+            pageData.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td class="rank-col">#${item.Rank}</td>
+                    <td class="address-col">${item.ID}</td>
+                    <td class="score-col" style="color: var(--accent);">${item.Participation}</td>
+                    <td style="text-align: right; font-size: 12px; color: #666;">${item.LastUpdate}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+
+            updatePagination();
+        }
+
+        // 3. Обновление кнопок пагинации
+        function updatePagination() {
+            const totalPages = Math.ceil(currentData.length / itemsPerPage);
+            document.getElementById('pageInfo').innerText = `Page ${currentPage} of ${totalPages || 1}`;
+            
+            document.getElementById('prevBtn').disabled = currentPage === 1;
+            document.getElementById('nextBtn').disabled = currentPage >= totalPages;
+        }
+
+        // 4. Переключение страниц
+        function changePage(direction) {
+            currentPage += direction;
+            renderTable();
+            // Скролл вверх при переключении
+            document.querySelector('table').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // 5. Поиск
+        function handleSearch() {
+            const input = document.getElementById('searchInput').value.trim().toLowerCase();
+            
+            if (input.length > 0) {
+                // Фильтруем
+                currentData = fullData.filter(item => item.ID.toLowerCase().includes(input));
+            } else {
+                // Сброс (показываем всё)
+                currentData = fullData;
+            }
+
+            // Сбрасываем на 1-ю страницу результатов
+            currentPage = 1;
+            renderTable();
+        }
+
+        // Запуск
+        loadData();
+    </script>
+</body>
+</html>
