@@ -1,3716 +1,3956 @@
 [
   {
     "ID": "0xD08B8aFb4183Dd7Aaaf9e4AA7D4B6a4f04579931",
-    "Participation": 40294,
-    "LastUpdate": "2025-11-27 10:00",
+    "Participation": 47026,
+    "LastUpdate": "2025-11-29 09:51",
     "Rank": 1
   },
   {
     "ID": "0xFcE79693a223d3C22B48eAb339F7b5B55bc59865",
-    "Participation": 39064,
-    "LastUpdate": "2025-11-27 09:45",
+    "Participation": 45152.5,
+    "LastUpdate": "2025-11-29 09:38",
     "Rank": 2
   },
   {
     "ID": "0x181447733053Ca3f18c256eDd1b4265797fb1616",
-    "Participation": 24227.5,
-    "LastUpdate": "2025-11-27 09:59",
+    "Participation": 29123.5,
+    "LastUpdate": "2025-11-29 09:50",
     "Rank": 3
   },
   {
     "ID": "0xCC2B147b0A04759A267b52f2ecdE10b6B6eeCA6C",
-    "Participation": 8253,
-    "LastUpdate": "2025-11-27 09:45",
+    "Participation": 9721,
+    "LastUpdate": "2025-11-29 09:37",
     "Rank": 4
   },
   {
     "ID": "0xc96A7198A88bA76C17cD723025c02ED1f2Ef765F",
-    "Participation": 6348,
-    "LastUpdate": "2025-11-27 10:03",
+    "Participation": 9558.5,
+    "LastUpdate": "2025-11-29 09:54",
     "Rank": 5
   },
   {
     "ID": "0xe199972b0F3489862981004C07c2Ab77Fb59651F",
-    "Participation": 3860,
-    "LastUpdate": "2025-11-27 09:45",
+    "Participation": 4470,
+    "LastUpdate": "2025-11-29 09:38",
     "Rank": 6
   },
   {
-    "ID": "0x7C31Dd1430B9707998e6C9AC40872668C392A4ED",
-    "Participation": 3214.5,
-    "LastUpdate": "2025-11-27 10:02",
+    "ID": "0x7Add19f00153135F10E72403f849b410E2c0f9F4",
+    "Participation": 3983,
+    "LastUpdate": "2025-11-29 09:47",
     "Rank": 7
   },
   {
     "ID": "0xCac651a7F811aF339c5aE88E8902Fa4bdcFbdA37",
-    "Participation": 3127,
-    "LastUpdate": "2025-11-27 09:52",
+    "Participation": 3641,
+    "LastUpdate": "2025-11-29 09:44",
     "Rank": 8
   },
   {
     "ID": "0x9A309CA4bb5255370A3F522A36D2a44C84C0852d",
-    "Participation": 2822,
-    "LastUpdate": "2025-11-27 09:44",
+    "Participation": 3216.5,
+    "LastUpdate": "2025-11-29 09:37",
     "Rank": 9
+  },
+  {
+    "ID": "0x7C31Dd1430B9707998e6C9AC40872668C392A4ED",
+    "Participation": 3214.5,
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 10
+  },
+  {
+    "ID": "0xb28cd7EA5A450074CFf2571a518Aa95B9150C950",
+    "Participation": 3121,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 11
+  },
+  {
+    "ID": "0x2437aFD30D5096DE868C514B01290911A91aDBF5",
+    "Participation": 2713,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 12
   },
   {
     "ID": "0xa545607070c6a81812492590Fb1458DA0D831842",
     "Participation": 2478,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 10
-  },
-  {
-    "ID": "0x2437aFD30D5096DE868C514B01290911A91aDBF5",
-    "Participation": 2441,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 11
+    "LastUpdate": "2025-11-29 09:37",
+    "Rank": 13
   },
   {
     "ID": "0xAF791E4e4c58ea8c80C8E7Bc78e2135C8a2465F4",
-    "Participation": 2329.5,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 12
-  },
-  {
-    "ID": "0x7Add19f00153135F10E72403f849b410E2c0f9F4",
-    "Participation": 2084,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 13
+    "Participation": 2428.5,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 14
   },
   {
     "ID": "0xD543faeD41C556033DD68BDcB40EBFeEF654a576",
     "Participation": 2062.5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 14
-  },
-  {
-    "ID": "0x1264ee05a188b155Ce3169421CE369fc6E989Ca8",
-    "Participation": 1443.5,
-    "LastUpdate": "2025-11-27 09:48",
+    "LastUpdate": "2025-11-29 09:43",
     "Rank": 15
   },
   {
-    "ID": "0x5977b7821792a3288B84bC5c38A7d90391396f30",
-    "Participation": 1439,
-    "LastUpdate": "2025-11-27 09:45",
+    "ID": "0x1264ee05a188b155Ce3169421CE369fc6E989Ca8",
+    "Participation": 1899.5,
+    "LastUpdate": "2025-11-29 09:41",
     "Rank": 16
   },
   {
-    "ID": "0xb28cd7EA5A450074CFf2571a518Aa95B9150C950",
-    "Participation": 1410,
-    "LastUpdate": "2025-11-27 09:46",
+    "ID": "0x5977b7821792a3288B84bC5c38A7d90391396f30",
+    "Participation": 1784,
+    "LastUpdate": "2025-11-29 09:37",
     "Rank": 17
   },
   {
-    "ID": "0x2a3BfCc90308079AF12f0453F9eF0685D991f3CF",
-    "Participation": 1341.5,
-    "LastUpdate": "2025-11-27 09:45",
+    "ID": "0xF2395758A76810e7e7D403F44F0c3e8deCf1c770",
+    "Participation": 1615.5,
+    "LastUpdate": "2025-11-29 09:38",
     "Rank": 18
+  },
+  {
+    "ID": "0x8ac1c3148D871b063a942eeA3fD348E697750C10",
+    "Participation": 1426,
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 19
+  },
+  {
+    "ID": "0x2a3BfCc90308079AF12f0453F9eF0685D991f3CF",
+    "Participation": 1349.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 20
   },
   {
     "ID": "0xEDA8F1C699b953A9af3BE21e3bE055B84a577dD5",
     "Participation": 1293.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 19
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 21
   },
   {
     "ID": "0x8176cB06C97Abafb00a49bb2570e5a214B3441b8",
     "Participation": 1251.5,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 20
-  },
-  {
-    "ID": "0x8ac1c3148D871b063a942eeA3fD348E697750C10",
-    "Participation": 1179,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 21
-  },
-  {
-    "ID": "0x39Dcf42dbE68eA0dcE33Dc50b576C0aF24E9D147",
-    "Participation": 1082.5,
-    "LastUpdate": "2025-11-27 09:55",
+    "LastUpdate": "2025-11-29 09:59",
     "Rank": 22
   },
   {
-    "ID": "0xEbDd533898Bc5AFBB8CA1D2c3A0cBf3223bC83F1",
-    "Participation": 1021,
-    "LastUpdate": "2025-11-27 09:46",
+    "ID": "0x39Dcf42dbE68eA0dcE33Dc50b576C0aF24E9D147",
+    "Participation": 1174.5,
+    "LastUpdate": "2025-11-29 09:46",
     "Rank": 23
   },
   {
-    "ID": "0xCBE58009d90Ae22666B4555b3D15B837d4214D60",
-    "Participation": 939,
-    "LastUpdate": "2025-11-27 09:47",
+    "ID": "0xF98D000F5C2596a3b6cb8D5ee6Eb90229B085ec8",
+    "Participation": 1157,
+    "LastUpdate": "2025-11-29 09:43",
     "Rank": 24
   },
   {
-    "ID": "0xF98D000F5C2596a3b6cb8D5ee6Eb90229B085ec8",
-    "Participation": 765,
-    "LastUpdate": "2025-11-27 09:50",
+    "ID": "0xEbDd533898Bc5AFBB8CA1D2c3A0cBf3223bC83F1",
+    "Participation": 1031.5,
+    "LastUpdate": "2025-11-29 09:39",
     "Rank": 25
   },
   {
-    "ID": "0x0c97534Ba4e945b9cc09e71601D08803016D8A68",
-    "Participation": 728.5,
-    "LastUpdate": "2025-11-27 09:46",
+    "ID": "0xCBE58009d90Ae22666B4555b3D15B837d4214D60",
+    "Participation": 1027.5,
+    "LastUpdate": "2025-11-29 09:40",
     "Rank": 26
   },
   {
-    "ID": "0x544559D74CA907708bC003975E62A6D5bd37c14B",
-    "Participation": 721.5,
-    "LastUpdate": "2025-11-27 09:45",
+    "ID": "0xfe36d63d12fd6f10728A7f57e9aEeF5664300826",
+    "Participation": 933,
+    "LastUpdate": "2025-11-29 10:02",
     "Rank": 27
   },
   {
-    "ID": "0x97fe8a93bB11715FE2633A433C736e404B5A25c2",
-    "Participation": 717,
-    "LastUpdate": "2025-11-27 09:54",
+    "ID": "0x544559D74CA907708bC003975E62A6D5bd37c14B",
+    "Participation": 919.5,
+    "LastUpdate": "2025-11-29 09:37",
     "Rank": 28
   },
   {
     "ID": "0x2AA5778ea14b3985E94202DD2EE1D79E93f77517",
-    "Participation": 680,
-    "LastUpdate": "2025-11-27 09:45",
+    "Participation": 818,
+    "LastUpdate": "2025-11-29 09:37",
     "Rank": 29
+  },
+  {
+    "ID": "0x0c97534Ba4e945b9cc09e71601D08803016D8A68",
+    "Participation": 728.5,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 30
+  },
+  {
+    "ID": "0x97fe8a93bB11715FE2633A433C736e404B5A25c2",
+    "Participation": 717,
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 31
+  },
+  {
+    "ID": "0x7500188B186BA44B1C046c32b96A64413E437173",
+    "Participation": 642,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 32
   },
   {
     "ID": "0x0cde1f5a733954C2B03F5DD690afeAb84a20768f",
     "Participation": 484,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 30
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 33
   },
   {
     "ID": "0xdcAbf1e300f6D1B3d1F7a93c0174a365e550DCE0",
-    "Participation": 419,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 31
+    "Participation": 464,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 34
   },
   {
     "ID": "0x664fe53fface2259958C993A3A250034bF7E2055",
-    "Participation": 410.5,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 32
+    "Participation": 452.5,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 35
+  },
+  {
+    "ID": "0x8cCb7f5810DedE779e94a8Cf692297f824026b33",
+    "Participation": 370,
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 36
   },
   {
     "ID": "0xA931df14B31334621B1e9913Dd82a7cd12DFc44A",
     "Participation": 366,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 33
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 37
   },
   {
-    "ID": "0x8cCb7f5810DedE779e94a8Cf692297f824026b33",
-    "Participation": 353,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 34
+    "ID": "0x4c0fe00229bF4C36a6c4e1Ca057887D47be45a50",
+    "Participation": 357.5,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 38
+  },
+  {
+    "ID": "0x522d56Cd954a14FFEfF81109d8dD42Fe3132398D",
+    "Participation": 345,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 39
+  },
+  {
+    "ID": "0x1743F6e069Ec3d16f0E9BDED9f22ACF3cF3839cd",
+    "Participation": 329,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 40
   },
   {
     "ID": "0x7C804c7cfB017E293ba5231528bC71551E4B8F37",
     "Participation": 318,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 35
-  },
-  {
-    "ID": "0x4c0fe00229bF4C36a6c4e1Ca057887D47be45a50",
-    "Participation": 312.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 36
-  },
-  {
-    "ID": "0xF2395758A76810e7e7D403F44F0c3e8deCf1c770",
-    "Participation": 312,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 37
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 41
   },
   {
     "ID": "0x5324B08Ea5558933d6B29F3E168f57C986aA5da4",
     "Participation": 308,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 38
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 42
+  },
+  {
+    "ID": "0xe6156d0c1fbA3A6C1a147d94Dcc2cc77B63E68ac",
+    "Participation": 290.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 43
+  },
+  {
+    "ID": "0xa2Cef9b4453Aec420cB08F816891EC51cB08282D",
+    "Participation": 281,
+    "LastUpdate": "2025-11-29 09:37",
+    "Rank": 44
   },
   {
     "ID": "0x5DB8CFC7dE38761b08e2Dfe2Ef1090068D266a89",
     "Participation": 278,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 39
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 45
   },
   {
-    "ID": "0xfe36d63d12fd6f10728A7f57e9aEeF5664300826",
-    "Participation": 268,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 40
+    "ID": "0xa26990f1A4Fc10eaB490BBD36f3F069469Ee0Ca8",
+    "Participation": 278,
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 46
+  },
+  {
+    "ID": "0x4C755C785788A52D69213aCAb20a88E95A96711D",
+    "Participation": 268.5,
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 47
   },
   {
     "ID": "0x18bcC37a6e39f24730601BD075567A7A732dEc2F",
     "Participation": 267.5,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 41
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 48
   },
   {
     "ID": "0x3ceF233f73f76CDBB0dfFaca60f08466692Ed81E",
     "Participation": 266.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 42
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 49
   },
   {
-    "ID": "0x4C755C785788A52D69213aCAb20a88E95A96711D",
-    "Participation": 257.5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 43
+    "ID": "0xf9bc72F12e1Fefd196168A877B4AA6E7CBC7da4B",
+    "Participation": 266,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 50
   },
   {
     "ID": "0x3fdFbB6eD3788164e1531B1F923e4e11cABF24C3",
     "Participation": 256,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 44
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 51
   },
   {
     "ID": "0xD5b0695913e119a9E0DF946705b4C7587B50f1E1",
     "Participation": 249.5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 45
-  },
-  {
-    "ID": "0x1743F6e069Ec3d16f0E9BDED9f22ACF3cF3839cd",
-    "Participation": 238,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 46
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 52
   },
   {
     "ID": "0xA0275eA1ff3EC9Fa8117476Efa09D29ffb4014FA",
     "Participation": 237.5,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 47
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 53
   },
   {
-    "ID": "0x522d56Cd954a14FFEfF81109d8dD42Fe3132398D",
-    "Participation": 226,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 48
+    "ID": "0xCF2a34947da3C706D1BeB91E53F797781669f34e",
+    "Participation": 231.5,
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 54
   },
   {
     "ID": "0x6B69B9B7e6A26EA3fb9e59F7D8C5c98fa0D4F951",
     "Participation": 221,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 49
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 55
+  },
+  {
+    "ID": "0x2C4011bcC0bc1BdEb2aaf49ac433115f3B5E7103",
+    "Participation": 220,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 56
+  },
+  {
+    "ID": "0x82b24b4dD3f57a233Ecc2A94506e4463D8e8591c",
+    "Participation": 211,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 57
+  },
+  {
+    "ID": "0x73b10Fec5386bA9f0A319Cf4d81818A9513CD386",
+    "Participation": 208.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 58
   },
   {
     "ID": "0x773C6941d6Be54a64FC72f3D00CE0428186Ee392",
     "Participation": 202.5,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 50
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 59
   },
   {
     "ID": "0x449Fa5BFBCD6B9257F5b246fd692169f6558f249",
     "Participation": 198,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 51
-  },
-  {
-    "ID": "0xa2Cef9b4453Aec420cB08F816891EC51cB08282D",
-    "Participation": 197.5,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 52
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 60
   },
   {
     "ID": "0xB039261b65fF7AEcF44960ba17f65eb6CA594B4b",
     "Participation": 191,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 53
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 61
   },
   {
     "ID": "0x1e4AfeeF9F1149Cdc8259B21C2fEFc1890C81bD9",
     "Participation": 188.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 54
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 62
   },
   {
     "ID": "0x64566412B034FCdC7767a33664261dae0fc69F40",
     "Participation": 187.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 55
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 63
+  },
+  {
+    "ID": "0x62Fa8a03745F7eCb86549365259DFe506a6d7b66",
+    "Participation": 183.5,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 64
+  },
+  {
+    "ID": "0x6a7FF8C76fA487B1B82012a603815633De071d77",
+    "Participation": 177,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 65
+  },
+  {
+    "ID": "0x1DD00B3611c63B0571dF6ED04bE3469d56add93b",
+    "Participation": 173,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 66
   },
   {
     "ID": "0xA061680fF02dAa21EcA110fFEc248Daf2Fa8D6D4",
     "Participation": 172,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 56
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 67
   },
   {
     "ID": "0xfad14c7b7cE1c292347771EBf4e29813D91C090f",
     "Participation": 170,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 57
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 68
   },
   {
     "ID": "0x62254442A438b73aD9a759880F2b288005C4bC75",
     "Participation": 169,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 58
-  },
-  {
-    "ID": "0xe6156d0c1fbA3A6C1a147d94Dcc2cc77B63E68ac",
-    "Participation": 165.5,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 59
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 69
   },
   {
     "ID": "0xC3dA48b15E95Dd862df085A956716e4F228A8321",
     "Participation": 165,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 60
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 70
+  },
+  {
+    "ID": "0xaF14Db21Fb5474afC9Fc177bF30D382593c54A6E",
+    "Participation": 164.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 71
   },
   {
     "ID": "0xe94325681B859AE7C1603107c30b53F8a2FF4bB1",
     "Participation": 163,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 61
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 72
   },
   {
     "ID": "0xBB9eE39c093b4E3B59EaB2b74D03d1043186E31f",
     "Participation": 160,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 62
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 73
   },
   {
     "ID": "0x2cAc1e50660Af75E59F0A9eb6b7A2A0B4C44cF07",
     "Participation": 160,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 63
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 74
+  },
+  {
+    "ID": "0xCbE396E0f64CD0550d9206D7f7A29a2317BD0323",
+    "Participation": 159.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 75
+  },
+  {
+    "ID": "0xcd91A6f7adf6d6C28243Ad505d4de482b81827Ba",
+    "Participation": 159.5,
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 76
   },
   {
     "ID": "0x11349c8e04E667FC9F1c6B805655c0668300dC4b",
     "Participation": 159.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 64
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 77
   },
   {
-    "ID": "0x73b10Fec5386bA9f0A319Cf4d81818A9513CD386",
-    "Participation": 157.5,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 65
+    "ID": "0x753aADF49e3c5C5cF475f080151FAa4b8dA4E49C",
+    "Participation": 155.5,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 78
   },
   {
     "ID": "0x9D1b35767711EB8803d41870c2Ef6b65437B61f5",
     "Participation": 154.5,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 66
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 79
   },
   {
     "ID": "0x8309619A1B8910C3E1eDAAAcb04447d2A892A111",
     "Participation": 152.5,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 67
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 80
   },
   {
     "ID": "0x228df6626B6316820508E2Fe1942e41834eD5893",
     "Participation": 148,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 68
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 81
   },
   {
     "ID": "0x5B65b56c871b6d60822294BAaB824E34673EE6ba",
     "Participation": 147,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 69
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 82
   },
   {
-    "ID": "0x6a7FF8C76fA487B1B82012a603815633De071d77",
-    "Participation": 139,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 70
+    "ID": "0x29565404Da1facc13a74e4b4df4Fe05cc8103b5D",
+    "Participation": 141,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 83
   },
   {
     "ID": "0xA944577994d840448549622F931D0EAC8B12eB28",
     "Participation": 139,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 71
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 84
   },
   {
     "ID": "0xBFcbCf073Ed2Fb9EB87787F5fc8010E1870E7883",
     "Participation": 135.5,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 72
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 85
   },
   {
     "ID": "0x32990e07E097cA82ba367e06ac1433C80C1A278c",
     "Participation": 135.5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 73
-  },
-  {
-    "ID": "0xcd91A6f7adf6d6C28243Ad505d4de482b81827Ba",
-    "Participation": 134.5,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 74
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 86
   },
   {
     "ID": "0x52CDd4c0b65DED676705eDB02e000f77ca11F0a8",
     "Participation": 134.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 75
-  },
-  {
-    "ID": "0xaF14Db21Fb5474afC9Fc177bF30D382593c54A6E",
-    "Participation": 132,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 76
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 87
   },
   {
     "ID": "0xC3e1975478d4AD3daF55f7Cb02E89d6aFccb62dd",
     "Participation": 130,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 77
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 88
+  },
+  {
+    "ID": "0xD432534d5b2Af6C3Ee7fD857A18f5D8b409D6B67",
+    "Participation": 128,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 89
   },
   {
     "ID": "0x5D1911578aB5e1d49421B890FC99cDc81Aa592e4",
     "Participation": 126,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 78
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 90
   },
   {
     "ID": "0xeb1D0cb1404729a3c4C522144Ee4F7A67445B53f",
     "Participation": 125,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 79
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 91
+  },
+  {
+    "ID": "0x8673c33a871D3F5B2c113f66525da94126190988",
+    "Participation": 124.5,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 92
   },
   {
     "ID": "0x3bbd5ec81d8c247dE89176be5d1033c5f51e5Da4",
     "Participation": 123.5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 80
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 93
   },
   {
     "ID": "0x0CE15e5bFb0ac781f14025F38257e06d3b5A3dD3",
     "Participation": 121,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 81
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 94
+  },
+  {
+    "ID": "0xfff34454a7415784c3dB1637BA338825A49D57e9",
+    "Participation": 119,
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 95
+  },
+  {
+    "ID": "0xD2eA2a6a9bB0Db76123bCa894B43756E3c70B784",
+    "Participation": 117,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 96
   },
   {
     "ID": "0x04be502750D98777bc05709e6E7786B85118027f",
     "Participation": 116.5,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 82
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 97
   },
   {
     "ID": "0xDE78afD40eB13C5D7b35bDDEec524FE580453B21",
     "Participation": 116.5,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 83
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 98
   },
   {
     "ID": "0xf6E17781c09ddC0553944469590Fa1Ea03977144",
     "Participation": 116,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 84
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 99
   },
   {
     "ID": "0x6a4090e45C163574c6565544fffbD5a1bD814A11",
     "Participation": 115,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 85
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 100
   },
   {
     "ID": "0xb51f2520E510453041c1B04F1e1D3a2885c81411",
     "Participation": 114,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 86
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 101
   },
   {
     "ID": "0x71b2c2a261800332D73111532F9b956a5F53adAc",
     "Participation": 109,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 87
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 102
   },
   {
-    "ID": "0xfff34454a7415784c3dB1637BA338825A49D57e9",
-    "Participation": 109,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 88
+    "ID": "0x6287584D2fCBeea81b1051520599E681752411e3",
+    "Participation": 108.5,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 103
+  },
+  {
+    "ID": "0x69acb166F484D3936cF7043C4cF34a75e56EB2Ab",
+    "Participation": 104.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 104
   },
   {
     "ID": "0xbD08A697B1AeE0d1fC04F502CaD48B517E25aBEa",
     "Participation": 104.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 89
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 105
+  },
+  {
+    "ID": "0x37bbc1257d5Ce6597f2468D1783a07fa36e499ED",
+    "Participation": 104,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 106
   },
   {
     "ID": "0xd8c97A1aF931A31AE6bb4058E6FB21d8cf0e4679",
     "Participation": 102,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 90
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 107
   },
   {
     "ID": "0xA896A65C79640772836ee27Cd75302Dfc1C51083",
     "Participation": 101.5,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 91
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 108
   },
   {
     "ID": "0x9A7527F9A88b327C49909e767DDa86299d7E2d3F",
     "Participation": 100.5,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 92
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 109
   },
   {
     "ID": "0x4B18bC1AeD4770d039980aA3Ed14277228C2C996",
     "Participation": 100,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 93
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 110
+  },
+  {
+    "ID": "0x4Be8ed7d524E9Fd65bb23f55871392a95cD42B45",
+    "Participation": 96,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 111
   },
   {
     "ID": "0xB5318B43acb9Ff94edC539790bFAEd9599fAC2b5",
     "Participation": 95.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 94
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 112
   },
   {
     "ID": "0x02aC6288a7e74a01EDa910Eff73Eb3668fDC9E4a",
     "Participation": 95.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 95
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 113
+  },
+  {
+    "ID": "0xb80Dc4c14de4C8B3312B2222E87d6B0236aF7763",
+    "Participation": 93,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 114
+  },
+  {
+    "ID": "0x030F6207B59Ea19c591a5Dda969fC52Fa8f1E04d",
+    "Participation": 90,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 115
+  },
+  {
+    "ID": "0xfB8aE0cE7ABa3110f6BF9BaFF35ec328B9292963",
+    "Participation": 89.5,
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 116
   },
   {
     "ID": "0x511E3658BACe302d49277fC90AC1c13385418160",
     "Participation": 88.5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 96
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 117
   },
   {
     "ID": "0x07B3f8AF41Bd5881e036659B4b6cE2df7CCE454d",
     "Participation": 88,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 97
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 118
   },
   {
-    "ID": "0xCbE396E0f64CD0550d9206D7f7A29a2317BD0323",
-    "Participation": 84,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 98
+    "ID": "0x0Ff33a76cd6cdBEDD947a37c969e440F5DD66268",
+    "Participation": 86.5,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 119
   },
   {
     "ID": "0x5f8e8302f92119030a23acE05fdBe5985FB72D41",
     "Participation": 84,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 99
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 120
   },
   {
-    "ID": "0x69acb166F484D3936cF7043C4cF34a75e56EB2Ab",
-    "Participation": 82,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 100
-  },
-  {
-    "ID": "0xD432534d5b2Af6C3Ee7fD857A18f5D8b409D6B67",
-    "Participation": 82,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 101
-  },
-  {
-    "ID": "0x6287584D2fCBeea81b1051520599E681752411e3",
-    "Participation": 79,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 102
-  },
-  {
-    "ID": "0x030F6207B59Ea19c591a5Dda969fC52Fa8f1E04d",
-    "Participation": 78,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 103
-  },
-  {
-    "ID": "0xCF2a34947da3C706D1BeB91E53F797781669f34e",
-    "Participation": 78,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 104
-  },
-  {
-    "ID": "0xfB8aE0cE7ABa3110f6BF9BaFF35ec328B9292963",
-    "Participation": 77.5,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 105
-  },
-  {
-    "ID": "0xb80Dc4c14de4C8B3312B2222E87d6B0236aF7763",
-    "Participation": 74,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 106
+    "ID": "0x935b3625554f5B6dF244A78D88098175ee0e115f",
+    "Participation": 80,
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 121
   },
   {
     "ID": "0xaad1bFc3B1f295Fd290dDc21BB4b47AcA78ebF4E",
     "Participation": 72.5,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 107
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 122
   },
   {
     "ID": "0x3579160d79dea9B79AD34d2d181b085D72B62cd9",
     "Participation": 71.5,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 108
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 123
   },
   {
     "ID": "0x1674455db95D2e876b9d8E82e258017eEE2c5Df7",
     "Participation": 70.5,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 109
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 124
   },
   {
     "ID": "0x28bCA7c404d2E1cD3e154f2c513f600AfA378d5d",
     "Participation": 70.5,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 110
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 125
   },
   {
     "ID": "0x18c4914f1a51D3d7100C52917F49b9A33c9f9eF7",
     "Participation": 68,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 111
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 126
   },
   {
-    "ID": "0x1DD00B3611c63B0571dF6ED04bE3469d56add93b",
-    "Participation": 67.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 112
+    "ID": "0x7AbA64Ee529971552cD07acDB96639c0E72b08F4",
+    "Participation": 65.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 127
   },
   {
-    "ID": "0x7500188B186BA44B1C046c32b96A64413E437173",
-    "Participation": 64,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 113
+    "ID": "0xd7C8d68aD4c52d7D0551051991739e0662b065Fb",
+    "Participation": 63,
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 128
   },
   {
     "ID": "0xF49557CE50E4f525DE905b9f9593c51289D6EFB1",
     "Participation": 63,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 114
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 129
   },
   {
     "ID": "0xEA033f42E161Ca2276c2455cbE9FDEa779DB72e3",
     "Participation": 62,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 115
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 130
   },
   {
     "ID": "0x222b9f8F884E82147DD5aAbEbc8c3415beDFcE87",
     "Participation": 61.5,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 116
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 131
   },
   {
     "ID": "0xcb2114ca315A9d3eE3f9c3222f9d01C3b9bc3C04",
     "Participation": 59,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 117
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 132
+  },
+  {
+    "ID": "0x27A4a16266D6efDb732a0844876C2E4AA79e898A",
+    "Participation": 59,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 133
   },
   {
     "ID": "0x3EED0306F96cA0F71Fa3a64A7e3A3B95A78Ae1E7",
     "Participation": 57,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 118
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 134
   },
   {
     "ID": "0x29263a418A92D56cC85D809bcC5C8d00EDBC1153",
     "Participation": 56.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 119
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 135
+  },
+  {
+    "ID": "0x1ec98AE86a5462E2224654Ca7e4caBBC2A6a7673",
+    "Participation": 56.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 136
   },
   {
     "ID": "0xF903aa08cC7D1C0414f0a6Aa7004981AF39cb9e1",
     "Participation": 56,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 120
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 137
   },
   {
     "ID": "0x6f47FB6c54e5AF677dB8197c6eA24D9a4F7f7039",
     "Participation": 55,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 121
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 138
+  },
+  {
+    "ID": "0x9521454f456655Ed2b114ad91aF4ecE9108f9781",
+    "Participation": 55,
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 139
   },
   {
     "ID": "0x4F96b5bdc9F0cd0d75d2330Ab5D36e72B0f25eA7",
     "Participation": 54,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 122
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 140
   },
   {
     "ID": "0x76Ccd88E2d4B3b399daB3B9e872539cEEC9B84FC",
     "Participation": 54,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 123
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 141
   },
   {
     "ID": "0x129751f91EFfB50BefeD4c942eC5314F0d82d998",
     "Participation": 53.5,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 124
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 142
   },
   {
     "ID": "0x64dA39b054692722aa38B243AB2E91CA6885E90F",
     "Participation": 53,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 125
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 143
   },
   {
     "ID": "0xa848a533C8668F8B1734A3d4469E6711d3321c57",
     "Participation": 52.5,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 126
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 144
   },
   {
     "ID": "0x0bE2d44c3dE56c597Bd7a88b9716F4bA6D60164c",
     "Participation": 52.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 127
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 145
   },
   {
     "ID": "0xF0AFBd68790b507552886b860294B135a87D4b48",
     "Participation": 52,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 128
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 146
   },
   {
     "ID": "0x67f7903522DF24A4BdDc0d8C043Fde7505768088",
     "Participation": 51.5,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 129
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 147
   },
   {
     "ID": "0x4A2c0E7e6f8eC3Db9266391b41006cCCc1702F13",
     "Participation": 51.5,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 130
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 148
   },
   {
     "ID": "0xd0578D5244b5BF42205834BD533F61cF37BDA87b",
+    "Participation": 50,
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 149
+  },
+  {
+    "ID": "0xaE5Ec1590BBca56d1eFa2887D074c49ea0a3Bd04",
+    "Participation": 50,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 150
+  },
+  {
+    "ID": "0x21135eC72c3358ab6fD047b3a2C6683fB3254E91",
     "Participation": 48.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 131
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 151
   },
   {
     "ID": "0xb12bB86C6B87BFF0669915f7a480AcBa8345145B",
     "Participation": 47.5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 132
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 152
   },
   {
     "ID": "0xF57564B0a2132bA95fd53c1476d7e07FDfee7cec",
     "Participation": 47.5,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 133
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 153
+  },
+  {
+    "ID": "0x37C2032F666A143e5F00177EAe3443089f4D6Fa3",
+    "Participation": 47,
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 154
   },
   {
     "ID": "0x2c573fC9D1470c887c80a4D246d3e20B891341b1",
     "Participation": 45,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 134
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 155
+  },
+  {
+    "ID": "0xA3213488327B8d156717b032229676e7389914b7",
+    "Participation": 45,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 156
   },
   {
     "ID": "0x3520dFe8e97fdd833a7C034A0Ce6dadeA8d771F1",
     "Participation": 44.5,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 135
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 157
   },
   {
     "ID": "0x0bebB0eC6Cd38470726Ab2B1Be7b426DdF851163",
     "Participation": 44,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 136
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 158
   },
   {
     "ID": "0x7a348Bf7F8B61121e4237D31B777bB0C597c99Ef",
     "Participation": 43.5,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 137
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 159
   },
   {
     "ID": "0x2Fb13FCd5463023Ff9A49DC619e20A07720C0e5a",
     "Participation": 43,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 138
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 160
+  },
+  {
+    "ID": "0x48fe85fea0239ff7827b55c3674e33EF61281A36",
+    "Participation": 42.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 161
   },
   {
     "ID": "0x7827759797FAc38d247337e4FcEC87317F5cb066",
     "Participation": 42,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 139
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 162
   },
   {
     "ID": "0x68478107Bad5d4ab29d0D1eE85893493eF669416",
     "Participation": 42,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 140
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 163
   },
   {
     "ID": "0x774e7597643633326DDe56DBBA6EC10207D39FF6",
     "Participation": 41.5,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 141
-  },
-  {
-    "ID": "0x9521454f456655Ed2b114ad91aF4ecE9108f9781",
-    "Participation": 41.5,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 142
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 164
   },
   {
     "ID": "0xac0f4EB24D4067D07dfeA6E0822F081C1B1DebA8",
     "Participation": 41.5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 143
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 165
   },
   {
     "ID": "0x8e4361017E9A611c186681aFAF3d4DE9984E47a4",
     "Participation": 40,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 144
-  },
-  {
-    "ID": "0x0Ff33a76cd6cdBEDD947a37c969e440F5DD66268",
-    "Participation": 40,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 145
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 166
   },
   {
     "ID": "0x165Fa5e5A30b025311792f10568821f801F55C21",
     "Participation": 39,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 146
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 167
   },
   {
     "ID": "0xe54D86a67B7e98868E948Fc56475882723aF975D",
     "Participation": 37,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 147
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 168
   },
   {
     "ID": "0xdAB11B6D315E25748f976067868e2D4bf5eb38B5",
     "Participation": 37,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 148
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 169
   },
   {
-    "ID": "0xd7C8d68aD4c52d7D0551051991739e0662b065Fb",
+    "ID": "0x4BC963DeF0F112f8E920627CFeC00E7E62E0998d",
     "Participation": 36.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 149
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 170
   },
   {
     "ID": "0x0632E62f3b0F482cCa7aa7418Ba9faAdb79Ae71D",
     "Participation": 35.5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 150
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 171
+  },
+  {
+    "ID": "0x47065Ec75D60128FC0E034526c9E166Fe18978F5",
+    "Participation": 34,
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 172
   },
   {
     "ID": "0x31F1D20a2f0D28726561003B9861F8bd8984Adb7",
     "Participation": 33,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 151
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 173
   },
   {
     "ID": "0xE4Df3cB36cAdBc2322b39e18Ad8953E2fc9522fa",
     "Participation": 32,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 152
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 174
+  },
+  {
+    "ID": "0x3290F0536b6A4f10102bCdea957eD4579Ed5E0B7",
+    "Participation": 31.5,
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 175
   },
   {
     "ID": "0x678cE4EB91243a79388BB14Ec0244665576E8d3A",
     "Participation": 29.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 153
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 176
   },
   {
     "ID": "0xa5e2894c870540bf743cf1cDDEE2344be29ac301",
     "Participation": 29,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 154
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 177
   },
   {
     "ID": "0xcFbB6D281a85720e724b82624F2Ea1b52F4DA685",
     "Participation": 28.5,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 155
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 178
   },
   {
     "ID": "0xC36B502f18492D38b469651a9E083965C24F48eB",
     "Participation": 28,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 156
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 179
+  },
+  {
+    "ID": "0x97acC36386e4f2E189F098B93acAC456d7e2550f",
+    "Participation": 27.5,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 180
+  },
+  {
+    "ID": "0x119083deF22015d8Ae778A238C5CA05075e6CA1D",
+    "Participation": 27.5,
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 181
   },
   {
     "ID": "0xDE3c5c4c40Ed9Cf2ED2EB09E0e88121AC5f52C85",
     "Participation": 26.5,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 157
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 182
   },
   {
     "ID": "0xeF8AA54C8B82bf93c0d13a10233691f5EA046cC1",
     "Participation": 26.5,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 158
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 183
   },
   {
     "ID": "0xcb47c277c5D43e072f353d6908b436c4DFA23e1D",
     "Participation": 26,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 159
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 184
   },
   {
     "ID": "0x9f0a97329fDfaeccAf482EB9b82BBa52e33F762d",
     "Participation": 26,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 160
-  },
-  {
-    "ID": "0x37C2032F666A143e5F00177EAe3443089f4D6Fa3",
-    "Participation": 25.5,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 161
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 185
   },
   {
     "ID": "0x0E31258fdB903f4bb3454c4daD2b3c737E5086Ea",
     "Participation": 25.5,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 162
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 186
   },
   {
     "ID": "0x2dDE2d1Bde332a2A7b5e4cc106f549E19F976a24",
     "Participation": 25,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 163
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 187
   },
   {
     "ID": "0x8A7cc9271a4ee842107Cb2375526fc314B2f0492",
     "Participation": 25,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 164
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 188
   },
   {
-    "ID": "0x97acC36386e4f2E189F098B93acAC456d7e2550f",
+    "ID": "0x06F503516631D91E40D83E6E68f17AFc74346A8a",
     "Participation": 24.5,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 165
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 189
   },
   {
     "ID": "0x863c0a4DF3ea4Af0D6760079Ea87ad600eE2395f",
     "Participation": 24.5,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 166
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 190
+  },
+  {
+    "ID": "0x93c07577E3C7bd8cDb97998c54E083ee15dd9866",
+    "Participation": 24.5,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 191
   },
   {
     "ID": "0xD77Bd7378DBeA0d373EF304119ba4A85A5f44A70",
     "Participation": 23.5,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 167
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 192
   },
   {
     "ID": "0xa6727eC7B8B33765694C422706088B69963b9eF6",
     "Participation": 23,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 168
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 193
   },
   {
-    "ID": "0x47065Ec75D60128FC0E034526c9E166Fe18978F5",
-    "Participation": 21.5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 169
+    "ID": "0x1f55Ca816Fee0F1C50E6Ed5CB6297E5F488c3266",
+    "Participation": 22,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 194
   },
   {
     "ID": "0x50aAce5C45bD937e5df5aE04079988c8eC76c293",
     "Participation": 21.5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 170
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 195
   },
   {
     "ID": "0x483FD19013c865F955503A3D42203398EC2F267D",
     "Participation": 21,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 171
-  },
-  {
-    "ID": "0x119083deF22015d8Ae778A238C5CA05075e6CA1D",
-    "Participation": 21,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 172
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 196
   },
   {
     "ID": "0xFbaF806f44611A4da2cB16ad50B3A71195A72106",
     "Participation": 21,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 173
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 197
   },
   {
     "ID": "0x8f650e80c0039A668aC349ccA0b58e3aA2b9A2A6",
     "Participation": 20,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 174
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 198
   },
   {
     "ID": "0x7F2C0b5f75F5E67d60b34aB9B1b69de7D346f28b",
     "Participation": 20,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 175
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 199
   },
   {
     "ID": "0xb15abD3bf074DA64D030d4bc8A25C72bb688dF76",
     "Participation": 20,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 176
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 200
   },
   {
     "ID": "0xDa81Db2c77FFcb1c7D2B1B0748a9c1A1E39a8daB",
     "Participation": 20,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 177
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 201
   },
   {
     "ID": "0x092BC734925165470894BE06E95aaDc633aDC779",
     "Participation": 19.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 178
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 202
   },
   {
     "ID": "0x21E287e5f04C01c7FCAF8753672A3ed43E66ce6c",
     "Participation": 19,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 179
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 203
   },
   {
     "ID": "0xD621b84bcB07332826c28650DE4C101708c718da",
     "Participation": 19,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 180
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 204
   },
   {
     "ID": "0xF167Dc48D792AAe69B5841317BEf0fc6dB1034a1",
     "Participation": 19,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 181
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 205
   },
   {
     "ID": "0xCF4E02f5E45bA3DFa3278c92d186c7ef6Cd209C7",
     "Participation": 19,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 182
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 206
   },
   {
     "ID": "0x02d9eD14dC1C26cF283184A9954F2c733a6D56e8",
     "Participation": 18.5,
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 183
-  },
-  {
-    "ID": "0x1f55Ca816Fee0F1C50E6Ed5CB6297E5F488c3266",
-    "Participation": 18,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 184
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 207
   },
   {
     "ID": "0x9Cd4769aBb3a879459D0A8C9Cd9E61585548dBb7",
     "Participation": 17,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 185
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 208
+  },
+  {
+    "ID": "0x8D34de35750F291F3439F7253E776603bd32f92b",
+    "Participation": 16.5,
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 209
+  },
+  {
+    "ID": "0x91FF818165Ef061902EABB70F43E138e3327579D",
+    "Participation": 16.5,
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 210
   },
   {
     "ID": "0x2553F78518a94Bbbe113eCAeAd544D0F55ADDe0e",
     "Participation": 16,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 186
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 211
   },
   {
-    "ID": "0x8D34de35750F291F3439F7253E776603bd32f92b",
-    "Participation": 15.5,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 187
+    "ID": "0x3c096Bd79F6737B366391F3f26726a06a0114ead",
+    "Participation": 16,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 212
   },
   {
     "ID": "0x8691b7F434969edeBc56D9E14e4029f0d774d113",
     "Participation": 15.5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 188
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 213
+  },
+  {
+    "ID": "0x4d142B298657aBE1C937aCeeebDF51F89fDFEb57",
+    "Participation": 15.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 214
   },
   {
     "ID": "0xD9dc70b9757F98F713C53fddd115fE25Aca5785D",
     "Participation": 15,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 189
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 215
+  },
+  {
+    "ID": "0xDebA673Aa3ABf0072d0Be986CACEf15779cCb5e2",
+    "Participation": 14.5,
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 216
   },
   {
     "ID": "0x4063e5FbF94E08975fE07251C320077B3f9e409e",
     "Participation": 14,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 190
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 217
   },
   {
     "ID": "0xf54EF2eC8a5790D0E626e65187D14a6c9463F783",
     "Participation": 14,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 191
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 218
   },
   {
     "ID": "0x6244ba694D94FDd00B99AfBB439cAF9720802A42",
     "Participation": 14,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 192
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 219
   },
   {
     "ID": "0xf704B05eBb68406B02f2B8785eC2E6f76291d1C1",
     "Participation": 14,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 193
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 220
   },
   {
     "ID": "0xE0DE4C58be38be795FA219b62EAfCF3a1a7a4b24",
     "Participation": 13.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 194
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 221
   },
   {
     "ID": "0x1a9B4fEeC699365F0cdC82F854EC79b7B093B8A7",
     "Participation": 13,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 195
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 222
   },
   {
     "ID": "0x8f50821ba0025ECf2dDa03e4A2E34105cc4e965f",
     "Participation": 12.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 196
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 223
   },
   {
     "ID": "0x300B432F790D448842f8282C55ad3531541Dc7Ca",
     "Participation": 12.5,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 197
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 224
   },
   {
     "ID": "0xE0dd98f250fbCcc5AC8F946b7D6AA72f6601028D",
     "Participation": 12.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 198
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 225
   },
   {
     "ID": "0x1283C687F5ee7cD1E6Ac7715Cf29852DdEb65685",
     "Participation": 12.5,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 199
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 226
   },
   {
     "ID": "0x248AA3363cc8BB8075EB0f0158e71833dA7Ccd5c",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 200
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 227
   },
   {
     "ID": "0x0799Aa081701A4f53e7021060818e4Eb493ee5e5",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 201
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 228
   },
   {
     "ID": "0x4E12b11EC3bE75B88Ff3543999Be9C3958F74530",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 202
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 229
   },
   {
     "ID": "0xaB41059b95891DaB4A17E464ce3593E44cEb5f0a",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 203
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 230
   },
   {
     "ID": "0xFea2dF9eeF772e2093fCb8731f95E4A9F0727ba0",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 204
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 231
   },
   {
     "ID": "0x5795474D30D836a4Acb30661d52598E7B24c8763",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 205
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 232
   },
   {
     "ID": "0x9BAE26FDa6463a3E13A4a877A234650e0119e75e",
     "Participation": 12,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 206
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 233
+  },
+  {
+    "ID": "0xc8B6120cbD4f72D357A2b38D7B62bfc4337A5734",
+    "Participation": 12,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 234
+  },
+  {
+    "ID": "0xC6545306BE3736988FDd9eC7F7da0C8f51fb3fDc",
+    "Participation": 12,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 235
   },
   {
     "ID": "0xDea049d016b72110cD7899884E0E8E4B87e3cd1a",
     "Participation": 11.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 207
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 236
   },
   {
     "ID": "0x9A165DF54BA2CD17ff78A9337FaF12f35EF45503",
     "Participation": 11.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 208
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 237
   },
   {
     "ID": "0xB67Da64d464F306c3Bf474da9066f3eF00729c86",
     "Participation": 11.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 209
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 238
   },
   {
     "ID": "0x41d5d921D0785CE4942B5b75ef2D9FA68BD2CEA0",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 210
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 239
   },
   {
     "ID": "0xe9ECDD2e285867B211D5BE3b946e91110bD5726c",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 211
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 240
   },
   {
     "ID": "0x8FCD86d0991598F55C5E2525357960A58bF17013",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 212
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 241
   },
   {
     "ID": "0x20253a4071B517AE715ed4EC0e3487D23dc4D078",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 213
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 242
   },
   {
     "ID": "0xb0A9E843Ae4d17DA1981ebdA05587BbF1eB50800",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 214
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 243
   },
   {
     "ID": "0x9a599e41C179f4Aa3470A49B93d5376eeD2bc1ea",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 215
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 244
   },
   {
     "ID": "0xA87EBA6e8316578a8dC72bDefb3B60400F6cFAEf",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 216
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 245
   },
   {
     "ID": "0x2E0C97f95e6017F848370D21ca5593a617aFBA82",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 217
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 246
   },
   {
     "ID": "0xaA3205d3e15Ba928035De61f983d5e1E1998E924",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 218
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 247
   },
   {
     "ID": "0x3bA77b3b59733413B444C921AA1fe289A2A7C7F2",
     "Participation": 11,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 219
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 248
+  },
+  {
+    "ID": "0x22387022e4ae5dAEFdDcB3360b96eC496350C276",
+    "Participation": 11,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 249
   },
   {
     "ID": "0xd303A9dC3d6cf39A56AC7bC8fAbbCD220B449BDE",
     "Participation": 10.5,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 220
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 250
+  },
+  {
+    "ID": "0x26420Aa14bAaed4017D0d6D11114D3A270605af6",
+    "Participation": 10.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 251
+  },
+  {
+    "ID": "0xDEA0a6F63c3274E40399da75b1b96aD3Bac5520D",
+    "Participation": 10.5,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 252
   },
   {
     "ID": "0xDde26466eFfEEA45C1589C2a2d9b5c7eFB09cA31",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 221
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 253
   },
   {
     "ID": "0x85304e7413f223c7Db87Da10441C14269F177bbD",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 222
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 254
   },
   {
     "ID": "0xdC7DB16a9bb7F2F4afd6b5767A7e9Ae3de7F80df",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 223
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 255
   },
   {
     "ID": "0x634dDed9feaa516Fb1dA21406CADf60a512c780D",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 224
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 256
   },
   {
     "ID": "0x205c3Db3eE510179Bf9178B0A31B4bf12C303654",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 225
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 257
   },
   {
     "ID": "0x232fa4DF3c6C230227fFd82cD23D6C006ae27112",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 226
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 258
   },
   {
     "ID": "0x4269C5c397A2d6c2AA4010464fAb3a4Ed5F02231",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 227
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 259
   },
   {
     "ID": "0x189344Ff659D298f77C076d556Dc16bF1eaCd58c",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 228
-  },
-  {
-    "ID": "0xa26990f1A4Fc10eaB490BBD36f3F069469Ee0Ca8",
-    "Participation": 10,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 229
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 260
   },
   {
     "ID": "0x3B5577a9a93492efF203cbaB94a8D0a52bE8c62a",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 230
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 261
   },
   {
     "ID": "0x63dC31210634EF5a3fbE718C76c97A017eC864C0",
     "Participation": 10,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 231
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 262
+  },
+  {
+    "ID": "0x1043E7AcfB2e3e8a244C3f3ec80886A478e428a2",
+    "Participation": 10,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 263
   },
   {
     "ID": "0x711fE3CCbf484da777c341F47D2bE6cFFa3D5068",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 232
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 264
   },
   {
     "ID": "0x6294Fd31ADd616f795E51EcA024e69D45A7b0d1B",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 233
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 265
   },
   {
     "ID": "0xdE48423E220E16f775793481eE34A7e33f9bA9C8",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 234
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 266
   },
   {
     "ID": "0x0f38C644162d514E59f453d5600c4797CBF7cb03",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 235
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 267
   },
   {
     "ID": "0xafd42B0101e4632b5f4EE827250da5805bb4A44e",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 236
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 268
   },
   {
     "ID": "0xfc873360aBf225780b9727A0E11ED3036A425CA5",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 237
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 269
   },
   {
     "ID": "0x5D6Ca7Ef4b787FfD28CD5B9e72B66CcA1e48078B",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 238
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 270
   },
   {
     "ID": "0x08089071db3D96D078F033f67DB56ca86A61b3CB",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 239
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 271
   },
   {
     "ID": "0x78E069Ad3a71F4a1c7b86000376532EEe3cC7145",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 240
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 272
   },
   {
     "ID": "0x14e04CD8b4B1355C1D8a79698C7E7fE64d49d58e",
     "Participation": 9,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 241
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 273
   },
   {
     "ID": "0xeE48A527DD1AECDe7983bd0Fa3e42310E2AC6d9b",
     "Participation": 8.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 242
-  },
-  {
-    "ID": "0xDebA673Aa3ABf0072d0Be986CACEf15779cCb5e2",
-    "Participation": 8.5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 243
-  },
-  {
-    "ID": "0x91FF818165Ef061902EABB70F43E138e3327579D",
-    "Participation": 8.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 244
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 274
   },
   {
     "ID": "0x9d2Ab63dD0Eb45857c9f5Bf7D19146A138f55905",
     "Participation": 8,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 245
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 275
   },
   {
     "ID": "0x934e54F2B90a59e4be873f29Acf74567ac52CC2C",
     "Participation": 8,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 246
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 276
   },
   {
     "ID": "0x8897378C9d37183A1Ff9076122bA9394FD098565",
     "Participation": 8,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 247
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 277
   },
   {
     "ID": "0xcc01111593Ee48876FdE8dCAb6E32651509ae18d",
     "Participation": 8,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 248
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 278
   },
   {
     "ID": "0x7deEefAa02FEB83b2e5B02D06d63d1CcDaD4fa55",
     "Participation": 8,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 249
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 279
   },
   {
     "ID": "0x4EB55e89a17E9cF29b1f02567BE8c4e975b8B9d5",
     "Participation": 7.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 250
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 280
   },
   {
     "ID": "0xF40d6C6598aa8730fBa41901fC6d4FF90Ae1c8E4",
     "Participation": 7.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 251
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 281
   },
   {
     "ID": "0xa0260f74bA2b85886D8E95b02181aD27e1F80339",
     "Participation": 7.5,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 252
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 282
   },
   {
     "ID": "0xf821fE397eab53bCCeC966776580C63470C9f5B9",
     "Participation": 7.5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 253
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 283
   },
   {
     "ID": "0xcEdd1ce6165E95faBB37b55377a2E93293087f7E",
     "Participation": 7,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 254
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 284
   },
   {
     "ID": "0x59Bd6ec78934777A35308c16EA8F3281A30dCdaa",
     "Participation": 7,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 255
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 285
   },
   {
     "ID": "0x864ea4A867Dd9cBa6020e4D8cDC4cD95B5F7DD09",
     "Participation": 7,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 256
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 286
+  },
+  {
+    "ID": "0x19F1f95Cfe2339EFABde1F359B11060708009dC9",
+    "Participation": 6.5,
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 287
   },
   {
     "ID": "0xCbF7fE0f381A099FE9FD4395a67490A735E101B2",
     "Participation": 6.5,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 257
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 288
   },
   {
     "ID": "0x4CB76F111EbcEC9476952e6e8EAE75F58ADA886F",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 258
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 289
   },
   {
     "ID": "0xD0031d3AC14A2B5989113b2717d674c10787858c",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 259
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 290
   },
   {
     "ID": "0xe8C4Af8C63E7029E1a3017ba15139C1050414Fc1",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 260
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 291
   },
   {
     "ID": "0x4c942B4d1574CE5448Da128Af8e060E163Ecd908",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 261
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 292
   },
   {
     "ID": "0xE166873b2B13e5edC71e7701fEE27997FA2B8e0D",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 262
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 293
   },
   {
     "ID": "0x92F729Af6A9F64BE0a90ad00DD014bf4DE75E250",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 263
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 294
   },
   {
     "ID": "0xe75D6046B6C3B11B266AFcAb72866d7DA2390f6f",
     "Participation": 6,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 264
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 295
   },
   {
     "ID": "0x9b21A6B257641bFC830e183781135b77A463c6D5",
     "Participation": 5.5,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 265
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 296
   },
   {
     "ID": "0x5DB446578BCA69b7403caE9323759D87C5b3d8E4",
     "Participation": 5.5,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 266
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 297
   },
   {
     "ID": "0xbD6564E6648E27c60E9E478bb037279054558F36",
     "Participation": 5.5,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 267
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 298
   },
   {
     "ID": "0x24dFBd4359F4268b13B19be4e35D2Cd0e33b922E",
     "Participation": 5.5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 268
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 299
   },
   {
     "ID": "0x79c7cfF3da4D8C35BA933f9F128e1b0A3667A85E",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 269
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 300
   },
   {
     "ID": "0x1ADb5905B6442629BA89685165204c40d2F17D7c",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 270
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 301
   },
   {
     "ID": "0x9f8124E578DdCAEe3c9cff9849479C154c97c70C",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 271
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 302
   },
   {
     "ID": "0xdeAc84f96169F061CABCD7f3E5e30b0c4942989B",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 272
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 303
   },
   {
     "ID": "0x43DcFD9bB60141e02C40a72fb07Cfa3d0318eDAF",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 273
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 304
   },
   {
     "ID": "0x3493d2876E4B94cCF90803eEABE6418263d4c183",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 274
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 305
   },
   {
     "ID": "0xDAa7Fc7e2BAC1Ea04e6c96914e95B86F79C6D296",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 275
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 306
   },
   {
     "ID": "0x329CbD2aCB0927A0a3cbd72dFFe6A581b9Ba4E89",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 276
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 307
   },
   {
     "ID": "0x866aD433b6457c1322ef591bd3beFD2AE7DCde65",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 277
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 308
   },
   {
     "ID": "0x05385E16ab0EE5d119196Ac9616c76cc12869b73",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 278
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 309
   },
   {
     "ID": "0xbfC3f3ab2de02088dBb47EB46aff23472959598d",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 279
-  },
-  {
-    "ID": "0x935b3625554f5B6dF244A78D88098175ee0e115f",
-    "Participation": 5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 280
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 310
   },
   {
     "ID": "0x7e56AA8dEae83bE2Ed093C08131D53ed309c92aa",
     "Participation": 5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 281
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 311
+  },
+  {
+    "ID": "0x744e7744F086c6B26DA12513f28611F1649f1c15",
+    "Participation": 5,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 312
   },
   {
     "ID": "0x7D0053a857F6564465bF4b9f515C935eCf418Dd0",
     "Participation": 4.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 282
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 313
   },
   {
     "ID": "0xA055C11a459fB6f88f080c2B037b4379Ab82c0Aa",
     "Participation": 4.5,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 283
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 314
   },
   {
     "ID": "0xFd1109a69C922a5fC6c256f8fc3Fa40d8Ac01011",
     "Participation": 4.5,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 284
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 315
   },
   {
     "ID": "0xFDC72a217f66EF76Fe9bC31d5B91ab9ADC274E20",
     "Participation": 4.5,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 285
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 316
   },
   {
     "ID": "0xC8e9d4CFa85BcD687C8Fb3f51ffD5921Abe102f6",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 286
+    "LastUpdate": "2025-11-29 09:37",
+    "Rank": 317
   },
   {
     "ID": "0x06748745383714d20C1A4391732799e14177c437",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 287
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 318
   },
   {
     "ID": "0xdFfce25A524195C37Eaba34825d74889B06728C7",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 288
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 319
   },
   {
     "ID": "0x43D4272f4339219b585aE64d6CC9Cb7D6FeeDfa9",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 289
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 320
   },
   {
     "ID": "0xa43d79C83e2419f525ad0ea9C853F74e6262B4f5",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 290
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 321
+  },
+  {
+    "ID": "0xff3C3614F847E5e2291B893D9D51EFc22c56D7f9",
+    "Participation": 4,
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 322
   },
   {
     "ID": "0x7C2c8A8211F16597A88E76d7c189575852CAA5A4",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 291
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 323
   },
   {
     "ID": "0xD4fB5710df58B511d6E5cA461B6b283b03a44a1a",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 292
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 324
   },
   {
     "ID": "0xf2E9B7eFDc54D0b55eeC1156E07910A1e1F80912",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 293
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 325
   },
   {
     "ID": "0x846c831a510A0f6DAc900B995bdEEB5b29527aF4",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 294
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 326
   },
   {
     "ID": "0x9186866ACD98b4004b703708D77FA60F77416e8A",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 295
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 327
   },
   {
     "ID": "0xA8a85EeA2D8E28fC768DAD0F56d03D3C7B97881D",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 296
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 328
   },
   {
     "ID": "0xf1eC1da84f7D3911Cf7d5954268CF12E132691b6",
     "Participation": 4,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 297
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 329
   },
   {
     "ID": "0xa40BE2A2B5cDf8987A6e6025aFEdF0e99a27b463",
     "Participation": 3.5,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 298
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 330
   },
   {
     "ID": "0x186868117AB820648B0E78acEF0bfa1e1B0ec69A",
     "Participation": 3.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 299
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 331
   },
   {
     "ID": "0x193E93E7Cf133bc3408B5436e6E081d23baA3d49",
     "Participation": 3.5,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 300
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 332
   },
   {
-    "ID": "0x62Fa8a03745F7eCb86549365259DFe506a6d7b66",
+    "ID": "0x625309bA30eD4D5c8A121B87983137dB6C1FB13C",
     "Participation": 3.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 301
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 333
   },
   {
     "ID": "0x285d4eFEcc201D2137b0c86bD3cf1DEf22BC8E85",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 302
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 334
   },
   {
     "ID": "0x1Bc107bd8926c321F25C8e2458Fe2b9A9AfcBfD6",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 303
-  },
-  {
-    "ID": "0x06F503516631D91E40D83E6E68f17AFc74346A8a",
-    "Participation": 3,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 304
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 335
   },
   {
     "ID": "0x25Ef8Ec72E5554617A56FF59B14f1D3C3D9A2BbA",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 305
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 336
   },
   {
     "ID": "0xA592F42f287a51c31Ce429Ab240EEB3ccC81955b",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 306
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 337
   },
   {
     "ID": "0x2f400E14Ec494d008BA195C24BCE76F8812945BE",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 307
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 338
   },
   {
     "ID": "0x93bdb8E6f6F6c6a1d9F7c23672BE0D1e34461805",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 308
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 339
   },
   {
     "ID": "0x5C353322AAa458d9322C3A4eCAD681a2c2a5e667",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 309
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 340
   },
   {
     "ID": "0x068f1e99DE30E3ebBe9802E54498d1Df970c2347",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 310
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 341
   },
   {
     "ID": "0x66D85cf9AC7Ac321e9D608215e493e4e4c79FF3c",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 311
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 342
   },
   {
     "ID": "0xF9C729110e6bCf51E6703bc6FdF5A78f6b74c024",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 312
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 343
   },
   {
     "ID": "0x934aC1Ac799116fe54c8CC5e841914a710b6617f",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 313
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 344
   },
   {
     "ID": "0xC10Af0345d8f9395df2007474dA9b24d0aebca7f",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 314
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 345
   },
   {
     "ID": "0xA6E9c82Ea4d5483bEE6efB1e1d25Fafc9CF65cA1",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 315
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 346
   },
   {
     "ID": "0x0675eae4fBb65aB6b9d927782986114B140e6A21",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 316
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 347
   },
   {
     "ID": "0x0670f09a3E67330030a9e039Ee900CB62048C881",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 317
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 348
   },
   {
     "ID": "0x0F31dB9477386cb317D642E9610052bC74309406",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 318
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 349
   },
   {
     "ID": "0xc9ad224af967B5034c0E684842Df09C2D7305337",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 319
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 350
   },
   {
     "ID": "0xe7125dc3000Ce4dB2FE01565C7fB11006Ce4f043",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 320
-  },
-  {
-    "ID": "0x3290F0536b6A4f10102bCdea957eD4579Ed5E0B7",
-    "Participation": 3,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 321
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 351
   },
   {
     "ID": "0xeca03c8eB34855a9D44262d12f266F7464Aa64aF",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 322
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 352
   },
   {
     "ID": "0x3A355CfD6C1fBb0aCecba002343DFB5763c6ca41",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 323
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 353
   },
   {
     "ID": "0xc81cFFEaE79B22eEa1CA9D0580De35801B474e7b",
     "Participation": 3,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 324
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 354
+  },
+  {
+    "ID": "0x1D6499c3cA394223E5A8a4DA87B5EE8E89494C23",
+    "Participation": 3,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 355
+  },
+  {
+    "ID": "0xd7BEC108ebf27B04d39ac2a3b3a92EcE6e67468A",
+    "Participation": 3,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 356
+  },
+  {
+    "ID": "0xEe74AeB8d833BE7fC05d47B053BAF348BF28c9FC",
+    "Participation": 3,
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 357
   },
   {
     "ID": "0x31c022530838Bf8B8a482d2E6533f262B87896cD",
     "Participation": 2.5,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 325
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 358
   },
   {
     "ID": "0xC9790Fc2052503Fbb475d12cD80bbdBEAc51C8D2",
     "Participation": 2.5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 326
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 359
   },
   {
     "ID": "0x915aA11e796a2Be32b54d1a0c4E1802988944502",
     "Participation": 2.5,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 327
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 360
   },
   {
     "ID": "0x0DeC59aB8a0bB9F994036Be6950e16F6A03834c7",
     "Participation": 2.5,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 328
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 361
   },
   {
     "ID": "0x8Defe3919f6704A30DC039458bc1b79FCA248A1A",
     "Participation": 2.5,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 329
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 362
   },
   {
     "ID": "0xA2b4F6035FE6b38bE317f1089Be7A09258f59488",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 330
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 363
   },
   {
     "ID": "0x53DE8717bCDeB6aa2F67d339a8E3E481aff715C0",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 331
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 364
   },
   {
     "ID": "0xc1f3a9553fbdAA761c1cBF0ca19eB45B9750B839",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 332
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 365
   },
   {
     "ID": "0x631D9eF1AE2A4105b111577E9633Cc3feab36734",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 333
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 366
+  },
+  {
+    "ID": "0x1a8Fc7f624fDBf456d2f12BAAE517968604Cb396",
+    "Participation": 2,
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 367
   },
   {
     "ID": "0xEcE6E8052189297A0D91B7D4B658bE5bCc381183",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 334
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 368
   },
   {
     "ID": "0x87Ba74F4baAd6657360889F2d443fDf8c46700ec",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 335
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 369
   },
   {
     "ID": "0x3BDC0FB7d012662c5b9b6e1D0607De05Cf5b12c3",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 336
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 370
   },
   {
     "ID": "0xca73269Af2981FBc2f823499556C2C10BdAC5fbA",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 337
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 371
   },
   {
     "ID": "0x0029F1C864Ffc106CE32c350Cb4840CA1d8A5aB6",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 338
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 372
   },
   {
     "ID": "0x5d045eF23947c7450d75322896eB8aF379c63e5d",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 339
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 373
   },
   {
     "ID": "0xf884066C252244b821aa269dee9bd08E1b3dA196",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 340
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 374
   },
   {
     "ID": "0xef0B744CD0565fb89017bd7e15B22BEDd22e64A3",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 341
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 375
   },
   {
     "ID": "0xdb2fc91373A575ee500c3c883A9Ea2968228311C",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 342
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 376
   },
   {
     "ID": "0x02C6B0F0d5C2c9d85E77DA93fd2129E13ff043C1",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 343
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 377
   },
   {
     "ID": "0x2F200d286072AB00b4640A3889d51C8A2f09C801",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 344
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 378
   },
   {
     "ID": "0x0C77e6689c0BEB369452A307800CC95D59a64b8e",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 345
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 379
   },
   {
     "ID": "0x08790877a45E4a0139797BAcC7Bd23D612115E93",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 346
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 380
   },
   {
     "ID": "0xdf7Fa52F9069158a8D214aDEcAb9D39e0E4a49d2",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 347
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 381
   },
   {
     "ID": "0x708fF9f965dF46969FF68f5B64219AaD77F0CE27",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 348
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 382
   },
   {
     "ID": "0x17BbAdbf56A93B4707212cbE7d5fc0C3AFB598AC",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 349
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 383
   },
   {
     "ID": "0x3C68D2Af600494991F073f387Ea72e31a06E70d5",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 350
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 384
   },
   {
     "ID": "0x1D09269bB2e7dAFEC9dEb3a63E5Af891B7A61d4e",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 351
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 385
   },
   {
     "ID": "0xDC69Fd44D4943d04bDC6E2e35d6ED7aad7B99C2b",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 352
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 386
   },
   {
     "ID": "0x92789e21B2d8FA9f23d957131cD582A8841d2632",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 353
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 387
   },
   {
     "ID": "0x3c3191322D444D4E710EC08088b86B7fb864Ce30",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 354
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 388
   },
   {
     "ID": "0x7d22A43ECcdc2cBbb040E03CA650C02189584739",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 355
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 389
   },
   {
     "ID": "0x2966D68Aa3572e950992065da6df9FC7E9c2A962",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 356
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 390
   },
   {
     "ID": "0xF4d66205DBAcC239FAeA92860aba789B1500C62d",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 357
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 391
   },
   {
     "ID": "0x025273d1133Fb23de5b6bF5f1d8c0d8D7316A933",
     "Participation": 2,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 358
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 392
   },
   {
-    "ID": "0x37bbc1257d5Ce6597f2468D1783a07fa36e499ED",
-    "Participation": 1.5,
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 359
+    "ID": "0xAB5d2f0135B90e83fB5e31a3a22D3C1786C3Dafe",
+    "Participation": 2,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 393
   },
   {
     "ID": "0x9FCcdd36623fCc5485bE92bD9BBb91165831e7A4",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 360
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 394
   },
   {
     "ID": "0x2F91429976e0d670889F82c119896Cbe4F7DD099",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 361
-  },
-  {
-    "ID": "0x1a8Fc7f624fDBf456d2f12BAAE517968604Cb396",
-    "Participation": 1.5,
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 362
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 395
   },
   {
     "ID": "0x2DAF748128DfE1C5Ae47e0dA5834ac5f9EddAd57",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 363
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 396
   },
   {
     "ID": "0x119691D2b20b08ffab6C2e64471bB67dF1220E2E",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 364
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 397
   },
   {
     "ID": "0x89c755a50Ea431299AF5554f46b76cd78B7Ad525",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 365
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 398
   },
   {
     "ID": "0xcF8d2dA75E1F0117c05798E922c5588609831F8F",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 366
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 399
   },
   {
     "ID": "0xd9dc614D16b79f36ada48f29d232e08e7F7033b4",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 367
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 400
   },
   {
     "ID": "0x99496b67BF6b8667049beCD0b6796197f1D4CC2F",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 368
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 401
   },
   {
     "ID": "0x757142bd70226Dca9EFEc6eb271457B247AbC0da",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 369
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 402
+  },
+  {
+    "ID": "0x8f6e7F623AF85F73352549AD83715058c394a4e0",
+    "Participation": 1.5,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 403
+  },
+  {
+    "ID": "0x78c9444695ca269153d85B775449b8eDB45f795a",
+    "Participation": 1.5,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 404
   },
   {
     "ID": "0xfeD40F83828c989234935E50EaEF552A4195C1ce",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 370
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 405
   },
   {
     "ID": "0x7Fd844096F01634352fD5f3b1526736EcC2645d1",
     "Participation": 1.5,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 371
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 406
+  },
+  {
+    "ID": "0xdAE47772e38474194912239A007f42Ae1D6aAeb7",
+    "Participation": 1.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 407
+  },
+  {
+    "ID": "0x1FC188bD61652CCde4fe842719EAFa6352d3E635",
+    "Participation": 1.5,
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 408
   },
   {
     "ID": "0x0AaA7ede68893c21CbfbFC9dD24e00bbff84e630",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 372
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 409
+  },
+  {
+    "ID": "0x453ff762b9485DAADDb95bAc6CC7A3c15A726993",
+    "Participation": 1,
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 410
   },
   {
     "ID": "0xB83a312f42485D0Da5D6D5F4Cb2361958a183EfE",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 373
-  },
-  {
-    "ID": "0x19F1f95Cfe2339EFABde1F359B11060708009dC9",
-    "Participation": 1,
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 374
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 411
   },
   {
     "ID": "0xe5973d9cBe1DE49d1E4BEE78A660250e7ED077f0",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 375
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 412
   },
   {
     "ID": "0x7b032222346853e75da1C0B3143a434e5ce02457",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 376
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 413
   },
   {
     "ID": "0x3Bf5AfEBa5595e1C4E7A009fbf68A367AbD29b48",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 377
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 414
   },
   {
     "ID": "0x844460a125EdceAA6daF191a400629F26E68e62B",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 378
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 415
   },
   {
     "ID": "0xfE4c524672e0c55cf29757d981caCcb1370316ec",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 379
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 416
   },
   {
     "ID": "0xF482f549e8E550908876b130e3163792E4d4c83b",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 380
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 417
   },
   {
     "ID": "0x2c6fa107AaF52ADb7e151fE98793a561e94e50E3",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 381
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 418
   },
   {
     "ID": "0xbcc7065B6739219bE903EA3179210148d17c7A5a",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 382
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 419
   },
   {
     "ID": "0x76370ebb908b1cc1ceE4E2e325b597aC55723aE8",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 383
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 420
   },
   {
     "ID": "0x3DBD59652F63111c9232bD6352fCA005837ff3C9",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 384
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 421
   },
   {
     "ID": "0xc24E0AD0112B53700F6FA1445f01AEeA45A48240",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 385
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 422
   },
   {
     "ID": "0xf88A965f30e8bD43147092d5468e20e88038d9a1",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 386
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 423
   },
   {
-    "ID": "0x8f6e7F623AF85F73352549AD83715058c394a4e0",
+    "ID": "0xb02647ffb5FF7DE0e9172c5a3bA9FAdBDFE599C4",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 387
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 424
+  },
+  {
+    "ID": "0x0C2Ac2f6a4bEf3282eba459E26071434F15F71C6",
+    "Participation": 1,
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 425
   },
   {
     "ID": "0x69FA9b7029363F8F9A6f5BAdE121c623353a4978",
     "Participation": 1,
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 388
-  },
-  {
-    "ID": "0x453ff762b9485DAADDb95bAc6CC7A3c15A726993",
-    "Participation": 0.5,
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 389
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 426
   },
   {
     "ID": "0xb6dee8D8103e2fDda1c9AAdd5ADb8B91060Ba763",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 390
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 427
   },
   {
     "ID": "0x344c961285b7a900Df34a13E769Ccc34eD936976",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 391
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 428
   },
   {
     "ID": "0x57a8686052454083fBb1AC2d115AaB6e7614DFf2",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 392
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 429
   },
   {
     "ID": "0x7245B5247516611c4DeeE8Fc2b31C7bC4d74b06c",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 393
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 430
   },
   {
     "ID": "0x3fEAFDe66557B3fd924c352285ed1cbDE1e93fE7",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 394
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 431
   },
   {
     "ID": "0xE1Eb03Aa50d8f9aa7ecF0D02eA4Bb83275dBeeDf",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 395
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 432
   },
   {
     "ID": "0x3e5Fd38F0e9f79D089af3C6B37137D74dF3138d5",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 396
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 433
   },
   {
     "ID": "0x8b7f8a9a054D7419b61F54110260894AA16813bb",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 397
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 434
   },
   {
     "ID": "0x3132A27E02dF69142861D5C32a07c86F9E87ba5A",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 398
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 435
   },
   {
     "ID": "0x3344D8efce8059D8D0dd0484B3047FbABdF71422",
     "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 399
-  },
-  {
-    "ID": "0xb02647ffb5FF7DE0e9172c5a3bA9FAdBDFE599C4",
-    "Participation": 0.5,
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 400
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 436
   },
   {
     "ID": "0x2342B8778542E856C8E82dA3cD5fe5083B4FDcd1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 401
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 437
   },
   {
     "ID": "0x0AA702C55FfBc74e6be17cFaAb74259D284da5D3",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:45",
-    "Rank": 402
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 438
   },
   {
     "ID": "0x31fB4336375bab3005F1A0ae0fEbf748dcC4C5e1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 403
+    "LastUpdate": "2025-11-29 09:38",
+    "Rank": 439
   },
   {
     "ID": "0x575AD93A796fc3A4A1929509017f24b7Bc793884",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:46",
-    "Rank": 404
+    "LastUpdate": "2025-11-29 09:39",
+    "Rank": 440
   },
   {
     "ID": "0xDF880a9cC6D8D3Af89A5bBe7599933bF1F384D9C",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 405
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 441
   },
   {
     "ID": "0x3673DdC9ef7166B4BadfA1C9aa2c8E1DB841BC11",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:47",
-    "Rank": 406
+    "LastUpdate": "2025-11-29 09:40",
+    "Rank": 442
   },
   {
     "ID": "0x4cde0fe0135769c40CFA5E81399De5B3a2525E54",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 407
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 443
   },
   {
     "ID": "0x5A59adaC990C703cEB581dA2370Eb56a2e1Ab8e5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 408
+    "LastUpdate": "2025-11-29 09:41",
+    "Rank": 444
   },
   {
     "ID": "0xa6DBc4AE566B891A0942860CEDaD866ffFcF5e71",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 409
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 445
   },
   {
     "ID": "0xFfa7Ff9582A8337125B1Eb922741Cb8602B5713B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:48",
-    "Rank": 410
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 446
   },
   {
     "ID": "0xf88a4E7694d1C56E32956fC933DE08D790C682b6",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 411
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 447
   },
   {
     "ID": "0x7711bbC5AC1ee8Ead68b308B5BdD3b2352052E1F",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 412
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 448
   },
   {
     "ID": "0xbDfFEaE43F6C2e70eCAea67b9BAc6c033f4a9438",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 413
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 449
   },
   {
     "ID": "0x8942DAa21B1CCc161c458a1119eF9b1089Ce70Df",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 414
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 450
   },
   {
     "ID": "0x6D75a5DaBdCADE45e6ea6B51362944cd2e61dC10",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 415
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 451
   },
   {
     "ID": "0x6478e0C541aF1B4B4168D00726B903f9e2a9a004",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:49",
-    "Rank": 416
+    "LastUpdate": "2025-11-29 09:42",
+    "Rank": 452
   },
   {
     "ID": "0xA4Ad411C582Af127a3Ca7f1f145fDFCec071F7B6",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 417
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 453
   },
   {
     "ID": "0x8DA1eE684DAf2Cf1aB7502Fec879b83c2E7Ba65E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:50",
-    "Rank": 418
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 454
   },
   {
     "ID": "0xd279c3ba24656aC9c72FDa76bEa65E3D3006a51E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 419
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 455
   },
   {
     "ID": "0xF6b07D1Cebb5eC5be1156b16114e3AFDeCe1C215",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 420
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 456
   },
   {
     "ID": "0x0Ac0B7BCAD5724498CC319fb1EfF6d61C5E68EE5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 421
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 457
   },
   {
     "ID": "0xc8Ed6ad46a9731C53625AF3125F9979ca124B509",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 422
+    "LastUpdate": "2025-11-29 09:43",
+    "Rank": 458
   },
   {
     "ID": "0xB3A2704081bAa27BB52F4aeD2C0226719202A0cD",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 423
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 459
   },
   {
     "ID": "0x8A2e7342799Bcf19B504C7Cd02e4bf158029959b",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 424
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 460
   },
   {
     "ID": "0x92640766Bf53Bf422474d4CC1AfF152BC9308C49",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:51",
-    "Rank": 425
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 461
   },
   {
     "ID": "0xc64AAC24bdf4EC63D31e2900243d7944f7ec8FAA",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 426
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 462
   },
   {
     "ID": "0xa18D33118EdD110D8bB7Ae6cf0503Ba00Ea098b3",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 427
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 463
   },
   {
     "ID": "0x1E5B8eBED6dA957CD9971175DecFD56AaB134672",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 428
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 464
   },
   {
     "ID": "0xC55bD422f4781BDE26731B0BEd9D9ce24916A2d0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 429
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 465
   },
   {
     "ID": "0x727c0fF3Bb6B7B8f73022C420DC2ACed0e21aC43",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 430
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 466
   },
   {
     "ID": "0x6ACFF88835F7C877C9dC9f08e91e4D9990ce8179",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 431
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 467
   },
   {
     "ID": "0x8b2db2EFC31E94Fba82340068e31804ff26E3b8f",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:52",
-    "Rank": 432
+    "LastUpdate": "2025-11-29 09:44",
+    "Rank": 468
   },
   {
     "ID": "0x9183f67334d5e7d46458e6345441BBb96eED33d3",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 433
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 469
   },
   {
     "ID": "0x8842E2cda745b6C6F9140943B97DBD21DE8bE04C",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 434
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 470
   },
   {
     "ID": "0xfc91CC8C645d8ceEe9850Ae8Cd37532EAF04261a",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 435
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 471
   },
   {
     "ID": "0xE8562BF315C69d6bA1701F7B24f4aF02eC7DdFF0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:53",
-    "Rank": 436
+    "LastUpdate": "2025-11-29 09:45",
+    "Rank": 472
   },
   {
     "ID": "0xEc79B22D882f288225ac9296fA313CBfcd8c8ff8",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 437
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 473
   },
   {
     "ID": "0x22Dcf312798d601244598b0acc3D9925341A1794",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 438
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 474
   },
   {
     "ID": "0x4381416b9931caFf610b8E2339d129bB51042AD3",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 439
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 475
   },
   {
     "ID": "0xee2A6Fb5b63Ac3f309B69c4D9500F995c8BF1763",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 440
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 476
   },
   {
     "ID": "0x7a8B7473a3664FAa5511BC0FDF3313E6589d0fCA",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 441
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 477
   },
   {
     "ID": "0x3757253dF9DD44f75Fd69717d371b7338b63c5Ca",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:54",
-    "Rank": 442
-  },
-  {
-    "ID": "0xff3C3614F847E5e2291B893D9D51EFc22c56D7f9",
-    "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 443
+    "LastUpdate": "2025-11-29 09:46",
+    "Rank": 478
   },
   {
     "ID": "0x9296d29E84dae8F3C901472a66ae87E0d03c7074",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:55",
-    "Rank": 444
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 479
   },
   {
     "ID": "0x01a4b9E4d6532519DeA6e485570f31FfB13B8D2c",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 445
+    "LastUpdate": "2025-11-29 09:47",
+    "Rank": 480
   },
   {
     "ID": "0x92A71FAf4f0E94563A0414Bddb16Fe48CFCF3354",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 446
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 481
   },
   {
     "ID": "0xEC3c40eAf0E796e1EAf589afd123720a95df43a8",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 447
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 482
   },
   {
     "ID": "0xAa6647BD6c8b835908A6e9D45456a4d997587c64",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 448
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 483
   },
   {
     "ID": "0xD41F2Ec4c4ad808012474bA2Bf7A03F5Fd856236",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:56",
-    "Rank": 449
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 484
   },
   {
     "ID": "0x0c1B25166Db87A59F0eaD9Df1dF7E647cB94e4eb",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 450
+    "LastUpdate": "2025-11-29 09:48",
+    "Rank": 485
   },
   {
     "ID": "0x471d4b253647850e980Ec1AbECC5cCF044b06523",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 451
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 486
   },
   {
     "ID": "0x53deFe1a8a1FD45ddDb8184083ceF5897aE6F00A",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:57",
-    "Rank": 452
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 487
   },
   {
     "ID": "0x6014B04D6792cebdfA023dEd723195291Ce3b31B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 453
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 488
   },
   {
     "ID": "0x2749aB854bB34d8C39Ced7c11f43227728376E5d",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 454
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 489
   },
   {
     "ID": "0x038A89a87aDB593D738e22897bFdc849452776DE",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 455
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 490
   },
   {
     "ID": "0x0d48fdc487F792cf96bfA18B2f4956e020ccb862",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 456
+    "LastUpdate": "2025-11-29 09:49",
+    "Rank": 491
   },
   {
     "ID": "0xdEC95024bF295ABc080400E9bd23E995a94b6e33",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 457
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 492
   },
   {
     "ID": "0x3dBAf07476ec4dCDfFA281e1f0181B457ecd4C16",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 458
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 493
   },
   {
     "ID": "0x91a472BA6fC88925dA15Cc0e7d3256bE17F858e4",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:58",
-    "Rank": 459
+    "LastUpdate": "2025-11-29 09:50",
+    "Rank": 494
   },
   {
     "ID": "0x37F5CB9b278ae26E7EeAa02fc3576C0Be3Ae1De4",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 460
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 495
   },
   {
     "ID": "0x55E1BF514393D169360Fa1f00E3ff90C6A68FC22",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 09:59",
-    "Rank": 461
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 496
   },
   {
     "ID": "0x909Ace51b354F7d50a371fe3211bAb04ccbDb4ca",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 462
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 497
   },
   {
     "ID": "0x4A8E6FcfB0d6567C2127B8eb7fF2fb09d89DC403",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 463
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 498
   },
   {
     "ID": "0xAF2704f0C9511395794A579B065A8337c78B568D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:00",
-    "Rank": 464
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 499
   },
   {
     "ID": "0x145Eed170cbB03413E217baA384824fEd8c56012",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 465
+    "LastUpdate": "2025-11-29 09:51",
+    "Rank": 500
   },
   {
     "ID": "0x3B9E6DC3Fa205Aa0675DD52f85c487db40AEA684",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 466
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 501
   },
   {
     "ID": "0xb44B389757B19858763AFb11cca4D6a4fa3e7752",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 467
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 502
   },
   {
     "ID": "0x5457F92feD857c1dBd1E3d7Cd61055C01B4239aF",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 468
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 503
   },
   {
     "ID": "0x846Cc434DFDE71bc1baB11A1296B6a2d6F3C0569",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 469
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 504
   },
   {
     "ID": "0x6dc89A55D4CdA75d64000A80a37de08248B8e1b9",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 470
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 505
   },
   {
     "ID": "0xe6021Cb7d9784FaB79F842461BD91cef79903d6d",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 471
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 506
   },
   {
     "ID": "0xCA03aD6268A8D126261B054025Ef2C275BD53a01",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 472
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 507
   },
   {
     "ID": "0x32D7844e6696E016C0493998A691a9ce0c61567E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:01",
-    "Rank": 473
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 508
   },
   {
     "ID": "0x5934C7bD983034514eC4e56cb8751974A338Dd42",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 474
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 509
   },
   {
     "ID": "0xaDC86EaFc575b9b219791A8d258C0C41fBEe7430",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 475
+    "LastUpdate": "2025-11-29 09:52",
+    "Rank": 510
   },
   {
     "ID": "0x0aB943C9fab8A1878422D84338ca362F06fb3c0B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 476
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 511
   },
   {
     "ID": "0x7B893AA4358e8126840e38c11DBb71Aedcc919E0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 477
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 512
   },
   {
     "ID": "0x3eD8B65d9f54f0213c9b59fc5d3A55F2B9eB1db8",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 478
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 513
   },
   {
     "ID": "0x9e62B6d5432A8F62Fc2d68C8365A481Ccd98f694",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 479
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 514
   },
   {
     "ID": "0xD15377a448bC222B434a963d142a50ddf6476F4a",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 480
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 515
   },
   {
     "ID": "0xf8AC528484E2952E7de57B72b4377560bA0b69bD",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 481
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 516
   },
   {
     "ID": "0x43Ba3727890b1eC54Edec9d59d7e13f41609ceB9",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 482
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 517
   },
   {
     "ID": "0xFe2E3e85964948761E798decC4B90FB8CdB45F40",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:02",
-    "Rank": 483
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 518
   },
   {
     "ID": "0x6429c17acDF2f678A755f7624a9a04F2DD8cd272",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 484
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 519
   },
   {
     "ID": "0x2Cd66d826dc325C3F06510255534885724eD159D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 485
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 520
   },
   {
     "ID": "0x1aD112324418413E3fBf2651F5169d8954b01973",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 486
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 521
   },
   {
     "ID": "0xeE24D3175fB4FB5273145dBC624ddCE057ddF519",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 487
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 522
   },
   {
     "ID": "0xc35Ffc1AE2af6BBdb03154a8Df147B509aDEF3EC",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 488
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 523
   },
   {
     "ID": "0x2FACF76225a95d1F496871eD4602896CDc3bB33B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 489
+    "LastUpdate": "2025-11-29 09:53",
+    "Rank": 524
   },
   {
     "ID": "0x08E9d06f4F5420106beCB7b003492fb5Ab325e55",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 490
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 525
   },
   {
     "ID": "0x2C224Ce2fbb966A1E8D16CBAb7C5f0A44124ba78",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 491
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 526
   },
   {
     "ID": "0x5Edb0D319C88223E8A95768C085502798004507d",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 492
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 527
   },
   {
     "ID": "0xa4A2854Dd0AdC285ec2E012a3c12D232ea0d5576",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:03",
-    "Rank": 493
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 528
   },
   {
     "ID": "0xF7d52E453a418f7CAe82bF6BFB0fce59765D90e1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 494
+    "LastUpdate": "2025-11-29 09:54",
+    "Rank": 529
   },
   {
     "ID": "0xdAE588403B216E5bc00cA8E7f675b486d8af3b4C",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 495
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 530
   },
   {
     "ID": "0xC0fCAD0787FE4e997A69D7435664ACa1cF633Cf5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 496
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 531
   },
   {
     "ID": "0x5aE94e9D92d6d9AAe9D13a89d7ad5e1921fC02fE",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 497
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 532
   },
   {
     "ID": "0xD13F2259Ff9B46aA5082dD678560c02a5eC59B67",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 498
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 533
   },
   {
     "ID": "0xe193AE3F1362dbc640E89126458586271138ee92",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 499
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 534
   },
   {
     "ID": "0x41868f012FCDC1554f02b84BE680b59E3454e44d",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 500
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 535
   },
   {
     "ID": "0x928Ccd4660d9A0C32c23A41b554A2023293aE52D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 501
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 536
   },
   {
     "ID": "0x08C768FA65aD96fb4A7FEFA681886d82914A8Ed2",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 502
+    "LastUpdate": "2025-11-29 09:55",
+    "Rank": 537
   },
   {
     "ID": "0x7662c1A09896310c776f1197A7E85BA9DAAf272f",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 503
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 538
   },
   {
     "ID": "0xEee5D29e491c31a411D48A57F5Bd28848E1849f1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 504
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 539
   },
   {
     "ID": "0xe20AcEC12878F1512D76F92aBE9F8F8d50db2FFc",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:04",
-    "Rank": 505
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 540
   },
   {
     "ID": "0xEe936e68663A69bDdce1f8C3EdF3Ea9bEEB63584",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 506
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 541
   },
   {
     "ID": "0xb8048591353652a95A3b76954eeD0E430A783412",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 507
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 542
   },
   {
     "ID": "0x9B22d055e494035e75155de7FfE8F64CC6230517",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:05",
-    "Rank": 508
+    "LastUpdate": "2025-11-29 09:56",
+    "Rank": 543
   },
   {
     "ID": "0xC0e52b0fc50De30DBfDF7761BFAE00CcF1724260",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 509
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 544
   },
   {
     "ID": "0xfcAC2e47fcb122D2c8EfAbDA9c478b4C38bAD661",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 510
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 545
   },
   {
     "ID": "0x1Ac2CA5570E2dF2A61cc5839406e045cCB28586e",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 511
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 546
   },
   {
     "ID": "0x4a5D55ADAD72B14767aD20d568bbc7f440d87379",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 512
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 547
   },
   {
     "ID": "0x652AeEdCA80CEE6f7265AF80eD17F0681CD9c672",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 513
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 548
   },
   {
     "ID": "0x7ca4c059bF95DBD78eEa587EFcbfEfF37025DB26",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:06",
-    "Rank": 514
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 549
   },
   {
     "ID": "0x250E28Eff0164Ce2ccC2cE0Acb92f0Bac9B420f4",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 515
+    "LastUpdate": "2025-11-29 09:57",
+    "Rank": 550
   },
   {
     "ID": "0xB160afaf65210483F03Ab14DE26803bc3c1d3417",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 516
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 551
   },
   {
     "ID": "0xdedef831984A80deb9eC2FBBb5b23e5bf539901B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 517
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 552
   },
   {
     "ID": "0xF06537E3cC9E57a16B4Afbdc75F0B657dD051C86",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 518
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 553
   },
   {
     "ID": "0x20C1B961a6d7C40A812d937cdD3e411DBFAac685",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 519
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 554
   },
   {
     "ID": "0x9Df9078a9C603899b7a61595B1A364bfF6a0a246",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 520
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 555
   },
   {
     "ID": "0x282f472918e0a09ddA1cd91D7a0cbb72Fca2B58F",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:07",
-    "Rank": 521
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 556
   },
   {
     "ID": "0xdBE04a47d647dcE3B5419D74187Ffd514FcC397B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 522
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 557
   },
   {
     "ID": "0xbbF8Fb628772A4Ee37f9aE4F8f6B3A1147e37d4e",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 523
+    "LastUpdate": "2025-11-29 09:58",
+    "Rank": 558
   },
   {
     "ID": "0x71e2346bC14980806EAf2c90EA209aC615Ec6d30",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 524
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 559
   },
   {
     "ID": "0x8D97653Fc1fD011209571E7f78a9305B3ED86d85",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 525
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 560
   },
   {
     "ID": "0xAec1BF85cf267F26aBA0972Eed488611d0F1Ee8E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 526
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 561
   },
   {
     "ID": "0x7Af4E1edB5fa0616BaFa4800447b25f051855143",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 527
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 562
   },
   {
     "ID": "0xd62794484780afF2a9071d036a86AB5E51ADB1a1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 528
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 563
   },
   {
     "ID": "0xB901D4BE3de708c90a3b0665C151005920e4111b",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 529
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 564
   },
   {
     "ID": "0xb1AD892476C7FD8735BbB289fF3454FD8594549F",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 530
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 565
   },
   {
     "ID": "0x3d06c51b3E21C044AD3B9b756259bb34bb52A39D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 531
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 566
   },
   {
     "ID": "0x46D04CC214c2755E98296dDFcA6D24FF32bDB65c",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:08",
-    "Rank": 532
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 567
   },
   {
     "ID": "0xc9fD5aEf7F585463aa43c2b05877EB0D33875Ff8",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 533
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 568
   },
   {
     "ID": "0xe33a4001f4787C87e8429Fe3c1cC36AF8fFC1F7c",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 534
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 569
   },
   {
     "ID": "0x0A7bd32Fc7058aAfd184304FfF85A4d769Fd831b",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 535
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 570
   },
   {
     "ID": "0x0467de868bf35fFe4aAe0b2B0127427329d90ADA",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 536
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 571
   },
   {
     "ID": "0xa5597f9ea404feD466bf49b298075Eee97D23D1E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 537
+    "LastUpdate": "2025-11-29 09:59",
+    "Rank": 572
   },
   {
     "ID": "0x000E103ADA98762d062d0910794579243Ad63443",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 538
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 573
   },
   {
     "ID": "0x5f879ad5cc601725617E62814F05C082B1f764e9",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 539
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 574
   },
   {
     "ID": "0x4A130A8a64c83206Cd38a0e868a6bABDD1A73245",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 540
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 575
   },
   {
     "ID": "0xC7072372d663e27D7468922a477Bd2BEDf167806",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 541
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 576
   },
   {
     "ID": "0x840A496d46997bD21DeE705fBd20760bD565f87b",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:09",
-    "Rank": 542
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 577
   },
   {
     "ID": "0x0456C497F0AF4b4c7C04A38D9Ee12927CE04d25c",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 543
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 578
   },
   {
     "ID": "0xD51F5F4660340DD6932144461fc31B4f73DE7F72",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 544
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 579
   },
   {
     "ID": "0x3A9B95d70b3c698f66747E6443C293c5FE060453",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 545
+    "LastUpdate": "2025-11-29 10:00",
+    "Rank": 580
   },
   {
     "ID": "0xe6033174BD86fDD951a9a944c2FF06C76b170c48",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:10",
-    "Rank": 546
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 581
   },
   {
     "ID": "0xE33bFE62B5228274131E92833EE84Ea2b679E232",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 547
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 582
   },
   {
     "ID": "0x329b3ce5D9a2f8c31Fac837a96E7E0bCBf299c11",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 548
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 583
   },
   {
     "ID": "0xaC50742DC1bAB2F092260744917d557011bb441a",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 549
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 584
   },
   {
     "ID": "0x2fb041905Ed9ba48d7E17a49137fA503fC5adc02",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 550
+    "LastUpdate": "2025-11-29 10:01",
+    "Rank": 585
   },
   {
     "ID": "0x1c0Fbc69bB60373C806a238C2b9cC593E193bf60",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 551
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 586
   },
   {
     "ID": "0x443017ceb987FE33F3144aDe138e19e75B4FC64F",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 552
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 587
   },
   {
     "ID": "0x269124C92677689c807E49A81e9F72Ed1F5172C1",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 553
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 588
   },
   {
     "ID": "0x82795527304a08F9a904d11C5BDb6aa75fEf2127",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 554
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 589
   },
   {
     "ID": "0x2e4634c9A8ec81741947f9f03D1Bcd3c9DF10031",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:11",
-    "Rank": 555
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 590
   },
   {
     "ID": "0x23AD90EAFCcE9F70Ad5b738ec7e7Db04C19df165",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 556
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 591
   },
   {
     "ID": "0x96418245020468D913C8724f328cF6001b032DAE",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 557
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 592
   },
   {
     "ID": "0xB6bd90E9dA97C84B6c52084b6f8ce883777e4285",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 558
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 593
   },
   {
     "ID": "0x7cB76A569138C878fCF0aE8Ae00BA804454e420e",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 559
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 594
   },
   {
     "ID": "0x15491244aee34cAAd31448efA05441ff6127BE9b",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 560
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 595
   },
   {
     "ID": "0x20f1ba127Cb548675053a26E0A205E7b59Afe89e",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 561
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 596
   },
   {
     "ID": "0x60e983Db3B9d72724a6fe54dcAbC482CC182E439",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 562
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 597
   },
   {
     "ID": "0x6167C4Cb84E7e8666dBE4f5329F4EE333D8007C0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 563
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 598
   },
   {
     "ID": "0x618afAEDb725aeb4c02ab8a26024C9288a0dCd72",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 564
+    "LastUpdate": "2025-11-29 10:02",
+    "Rank": 599
   },
   {
     "ID": "0x6f0e88EED1B15E0b3d7db969F1C2a14b6907BfFd",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 565
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 600
   },
   {
     "ID": "0xa7aBCdD59c57353A5CA2bd7B0BBB72eC4d51B2e9",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 566
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 601
   },
   {
     "ID": "0xA2F29C2F69C8a79A9ffa6189bF82D691C2543c74",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:12",
-    "Rank": 567
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 602
   },
   {
     "ID": "0xB4cdf9246828a22D702D51f1b9be1eb0C57163bC",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 568
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 603
   },
   {
     "ID": "0x444466413224760dE361fe8e44cdf7a8c6029A10",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 569
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 604
   },
   {
     "ID": "0x4D852cF8f598e56D6952434caA8730e55aa6b97E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 570
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 605
   },
   {
     "ID": "0xdDDcC557a77d7FFfb44CAE1b3abC1C974a6eEdC2",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 571
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 606
   },
   {
     "ID": "0x9BE0d1cB7DBD8498a5E99bD437cdbC415B37Da4D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 572
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 607
   },
   {
     "ID": "0xA5C3b10A0D47708f853764477EAd4aA7E40493Fe",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 573
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 608
   },
   {
     "ID": "0x37827edbdEcf283d3a7c3103DFB7419F09e1E452",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 574
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 609
   },
   {
     "ID": "0xeAf7F58be04CEFB8cb5f6FF11a64d8865B169068",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 575
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 610
   },
   {
     "ID": "0xA9794d52E5Ad03Df91b9e4Eeecb6CFb33c5F2Ef2",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 576
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 611
   },
   {
     "ID": "0x716a549fE0457eF677B4C2be1c49AF30B9e1dd9C",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 577
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 612
   },
   {
     "ID": "0x0047F00C8383245b8e2aBF66C3724CEbaC7c3A8f",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 578
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 613
   },
   {
     "ID": "0xfbF8f4480ff606F72AB44Aa656EAa152339F0E91",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 579
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 614
   },
   {
     "ID": "0x0157dd6943ecd137B4966365e241c2B545172583",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 580
+    "LastUpdate": "2025-11-29 10:03",
+    "Rank": 615
   },
   {
     "ID": "0xeD58a18B54dD22858d903F6655B6D5BED681f5b3",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 581
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 616
   },
   {
     "ID": "0x25eb32287f41eAB40e7d109a4b3CAbd5d215578a",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 582
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 617
   },
   {
     "ID": "0x550f95d55D79C68052273CEf9e841912Ac46a97F",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 583
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 618
   },
   {
     "ID": "0x454e405a0d70bc576d9E083b30db0C048996a9bc",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 584
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 619
   },
   {
     "ID": "0xfe7f3139B97B8B6075F1259dccae0D440263D19a",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 585
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 620
   },
   {
     "ID": "0x0de6E9174C530634A9c71B384D4E2D079D0B6501",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 586
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 621
   },
   {
     "ID": "0x74f5b14dC4b1f99E2c00106aD3fBfad6fc82c372",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 587
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 622
   },
   {
     "ID": "0x28327779A2aA76a694cC5f1e72cd1F6156713027",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 588
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 623
   },
   {
     "ID": "0xA1634557cE56f5E4C7ED161f8FEE624EC1eBE961",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 589
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 624
   },
   {
     "ID": "0xA758431bE4E9082Ad06aF4B768Fa027f506C7BfD",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 590
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 625
   },
   {
     "ID": "0xB1424293dA28424B1eB6623fF2A633a2a8f094AF",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 591
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 626
   },
   {
     "ID": "0xf97A6d69ca75Ac88967cB492cb0A20742C77346f",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:13",
-    "Rank": 592
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 627
   },
   {
     "ID": "0x3B3B5eD28999D8CE9b2311394Ff47AC8180308ce",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 593
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 628
   },
   {
     "ID": "0x323cc838E8559B2D105f62a5D0804Aef0d24E432",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 594
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 629
   },
   {
     "ID": "0x17AF5000726B6396224767BA2d73C1005d710454",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 595
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 630
   },
   {
     "ID": "0xD819f9B9a60EB9B9129bB35d9F2b848Bd6ca0B72",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 596
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 631
   },
   {
     "ID": "0xC3603A23BdC675a8c3b42D0580f206182ce05325",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 597
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 632
   },
   {
     "ID": "0x5eb72f5debf404E75D7e35DA5BbA09183b18Ce6C",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 598
+    "LastUpdate": "2025-11-29 10:04",
+    "Rank": 633
   },
   {
     "ID": "0x256bf5A969542968Bf6A9770861fE8737565a6F5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 599
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 634
   },
   {
     "ID": "0xb118f20a057325620e3696efe918ae81d96f1c33",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 600
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 635
   },
   {
     "ID": "0x0572305D9Fd4Aabf4265BcA2CCFF98ee4E370EC6",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 601
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 636
   },
   {
     "ID": "0x57f7115E3BDb00b6672a263F5Dd08fFbe7750153",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 602
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 637
   },
   {
     "ID": "0xE722A4F9f558AcFba6833a04728268c6532dE568",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 603
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 638
   },
   {
     "ID": "0x6877843ee5bD28EB51d092C8Db6FeB359b4d1dc5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 604
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 639
   },
   {
     "ID": "0x48389E82363b9b658A1249A4130f5fa15a976fA2",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:14",
-    "Rank": 605
+    "LastUpdate": "2025-11-29 10:05",
+    "Rank": 640
   },
   {
     "ID": "0x1f6D6faFb44C75532135897987e4f8B67BDb80E0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 606
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 641
   },
   {
     "ID": "0x289B3850c6E2e099ebD0BE4e4d2a9CD23e8b8787",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 607
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 642
   },
   {
     "ID": "0x101bFBeE29bAedd0FAFd2213745161579326cAFF",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 608
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 643
   },
   {
     "ID": "0xc634e0fdA281ab2337e7A49c3F1e66c409003417",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 609
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 644
   },
   {
     "ID": "0x5D661B162b3f3C986d4835FEBf4587CA0d8aFdE0",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 610
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 645
   },
   {
     "ID": "0x63c1DF619062e2B3F1EBe65F0B86D23230896Ae5",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:15",
-    "Rank": 611
+    "LastUpdate": "2025-11-29 10:06",
+    "Rank": 646
   },
   {
     "ID": "0xab626DB6DaC41c2518F1B4E08857C0a7Af272641",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 612
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 647
   },
   {
     "ID": "0x8457Aa351F8CE6bCC00Ba84321413e7C13772d0D",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 613
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 648
   },
   {
     "ID": "0xdd68dE23BD63da8d15C2B9890960340927b395EF",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:16",
-    "Rank": 614
-  },
-  {
-    "ID": "0x78c9444695ca269153d85B775449b8eDB45f795a",
-    "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 615
-  },
-  {
-    "ID": "0x0C2Ac2f6a4bEf3282eba459E26071434F15F71C6",
-    "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 616
+    "LastUpdate": "2025-11-29 10:07",
+    "Rank": 649
   },
   {
     "ID": "0x6190bf049e77B5C2514631Fb24F716494F38247B",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 617
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 650
   },
   {
     "ID": "0x1E0BF36555bb3ed8c318834C5384bA85Ce77ce15",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 618
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 651
   },
   {
     "ID": "0xD27c83ebEd596286AaCB171E0F0F3F1b9cD6566E",
     "Participation": "Not Found",
-    "LastUpdate": "2025-11-27 10:17",
-    "Rank": 619
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 652
+  },
+  {
+    "ID": "0xeaDc3cdF2294D9eC691b851f748f578e6d468771",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 653
+  },
+  {
+    "ID": "0x07fb6dccb2ff053578E56A475CB87aA3Ec86B7ab",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 654
+  },
+  {
+    "ID": "0xeaA0AE1AB9009CEE141A3A276A787e84efd4fDfF",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:08",
+    "Rank": 655
+  },
+  {
+    "ID": "0xf2eC0D7295e6E9909FA3099A9618f33F6154fabE",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 656
+  },
+  {
+    "ID": "0x92e2b476B5edF3bcf06474eFF1b3BcddD7b883D0",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:09",
+    "Rank": 657
+  },
+  {
+    "ID": "0xee1EaEEa5E0A9A59FE44e1c19B1FF7f41948f75F",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 658
+  },
+  {
+    "ID": "0xdEA1B7859aBe7A1770f647412b19959b24b9F624",
+    "Participation": "Not Found",
+    "LastUpdate": "2025-11-29 10:10",
+    "Rank": 659
   }
 ]
